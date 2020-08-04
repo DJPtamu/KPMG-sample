@@ -1,0 +1,1001 @@
+first_name,last_name,gender,past_3_years_bike_related_purchases,job_title,job_industry_category,wealth_segment,owns_car,tenure,postcode,state,country,property_valuation,Rank,Value,age
+Chickie,Brister,Male,86,General Manager,Manufacturing,Mass Customer,Yes,14,4500,QLD,Australia,6,1,1.71875,63.0
+Morly,Genery,Male,69,Structural Engineer,Property,Mass Customer,No,16,2113,NSW,Australia,11,1,1.71875,50.0
+Ardelis,Forrester,Female,10,Senior Cost Accountant,Financial Services,Affluent Customer,No,10,3505,VIC,Australia,5,1,1.71875,45.0
+Lucine,Stutt,Female,64,Account Representative III,Manufacturing,Affluent Customer,Yes,5,4814,QLD,Australia,1,4,1.703125,41.0
+Melinda,Hadlee,Female,34,Financial Analyst,Financial Services,Affluent Customer,No,19,2093,NSW,Australia,9,4,1.703125,54.0
+Druci,Brandli,Female,39,Assistant Media Planner,Entertainment,High Net Worth,Yes,22,4075,QLD,Australia,7,6,1.671875,69.0
+Rutledge,Hallt,Male,23,Compensation Analyst,Financial Services,Mass Customer,No,8,2620,NSW,Australia,7,6,1.671875,43.0
+Nancie,Vian,Female,74,Human Resources Assistant II,Retail,Mass Customer,Yes,10,4814,QLD,Australia,5,8,1.65625,47.0
+Duff,Karlowicz,Male,50,Speech Pathologist,Manufacturing,Mass Customer,Yes,5,2200,NSW,Australia,10,8,1.65625,48.0
+Barthel,Docket,Male,72,Accounting Assistant IV,IT,Mass Customer,Yes,17,4151,QLD,Australia,5,10,1.640625,34.0
+Rockwell,Matson,Male,94,Programmer Analyst I,Retail,High Net Worth,No,3,4573,QLD,Australia,6,10,1.640625,25.0
+Wheeler,Winward,Male,48,Environmental Specialist,Manufacturing,Mass Customer,No,10,3216,VIC,Australia,8,12,1.625,20.0
+Olag,Winward,Male,60,Human Resources Manager,Telecommunications,Mass Customer,No,9,2032,NSW,Australia,11,13,1.609375,30.0
+Melba,Spellacy,Female,38,VP Marketing,Health,Mass Customer,No,4,2232,NSW,Australia,10,14,1.59375,43.0
+Mandie,Feares,Female,32,Clinical Specialist,Health,Mass Customer,No,10,4053,QLD,Australia,8,14,1.59375,56.0
+Dukie,Swire,Male,88,Programmer I,Manufacturing,Affluent Customer,Yes,5,2500,NSW,Australia,8,16,1.5625,66.0
+Marcelia,Monkleigh,Female,61,Associate Professor,Manufacturing,Mass Customer,Yes,4,4051,QLD,Australia,6,17,1.546875,26.0
+Winnifred,Beswetherick,Female,83,Actuary,Financial Services,Mass Customer,No,14,3040,VIC,Australia,10,17,1.546875,44.0
+Odilia,Quick,Female,65,General Manager,Manufacturing,Affluent Customer,Yes,11,2222,NSW,Australia,11,19,1.53125,81.0
+Karly,Willavize,Female,2,Internal Auditor,Manufacturing,High Net Worth,No,12,2190,NSW,Australia,10,19,1.53125,65.0
+Teddie,Burchill,Male,11,Programmer I,Manufacturing,Mass Customer,Yes,13,2161,NSW,Australia,9,21,1.515625,51.0
+Gaston,Dallaghan,Male,44,Financial Analyst,Financial Services,Mass Customer,Yes,8,2783,NSW,Australia,7,21,1.515625,26.0
+Otis,Ottey,Male,26,Quality Engineer,Manufacturing,Mass Customer,No,3,4744,QLD,Australia,4,23,1.5,22.0
+Tabbatha,Averill,Female,5,Quality Control Specialist,Health,Affluent Customer,Yes,13,2257,NSW,Australia,8,23,1.5,42.0
+Brena,Schnitter,Female,78,Account Executive,Manufacturing,Mass Customer,No,4,4703,QLD,Australia,5,25,1.484375,37.0
+Rourke,Gillbard,Male,11,Safety Technician I,Property,Mass Customer,No,17,4817,QLD,Australia,4,26,1.46875,74.0
+Dyane,Burwell,Female,19,Engineer II,Retail,Mass Customer,Yes,7,2640,NSW,Australia,2,26,1.46875,68.0
+Claudine,Barstowk,Female,71,Nurse,Property,High Net Worth,Yes,5,4000,QLD,Australia,11,26,1.46875,53.0
+Blinnie,Roze,Female,84,Librarian,Entertainment,High Net Worth,No,11,4171,QLD,Australia,7,26,1.46875,59.0
+Rhona,De Freyne,Female,45,Programmer III,Health,High Net Worth,No,8,3056,VIC,Australia,10,30,1.4609375,59.0
+Sharron,Claibourn,Female,62,General Manager,Financial Services,High Net Worth,Yes,17,2280,NSW,Australia,8,30,1.4609375,40.0
+Brien,Heaton,Male,70,Clinical Specialist,Health,Mass Customer,Yes,12,2470,NSW,Australia,2,32,1.453125,68.0
+Sybilla,MacCart,Female,88,Paralegal,Financial Services,Mass Customer,Yes,7,2620,NSW,Australia,7,32,1.453125,33.0
+Mikel,McNess,Male,71,Nurse,IT,Mass Customer,No,9,4122,QLD,Australia,9,32,1.453125,38.0
+Maisie,Maddox,Female,27,Assistant Manager,Financial Services,Affluent Customer,No,20,3226,VIC,Australia,9,32,1.453125,43.0
+Arleen,Casbolt,Female,48,Senior Quality Engineer,Financial Services,Affluent Customer,Yes,13,4817,QLD,Australia,1,36,1.44765625,45.0
+Farlie,Petford,Male,76,Recruiting Manager,Health,High Net Worth,No,13,2017,NSW,Australia,10,36,1.44765625,52.0
+Mitchell,MacCague,Male,58,Accountant II,Manufacturing,Mass Customer,No,15,3190,VIC,Australia,8,38,1.4375,41.0
+Garik,Whitwell,Male,44,Help Desk Technician,Property,Mass Customer,Yes,13,3280,VIC,Australia,2,38,1.4375,65.0
+Antonin,Britt,Male,64,Speech Pathologist,Manufacturing,Affluent Customer,Yes,8,2160,NSW,Australia,9,40,1.434375,26.0
+Vinny,Incogna,Female,73,Developer III,Health,High Net Worth,No,10,2756,NSW,Australia,8,40,1.434375,67.0
+Colene,Fishleigh,Female,24,Design Engineer,Financial Services,Mass Customer,No,3,3149,VIC,Australia,10,42,1.421875,35.0
+Neile,Argent,Female,79,Help Desk Operator,Retail,Mass Customer,No,8,2024,NSW,Australia,10,42,1.421875,73.0
+Corinna,Suggey,Female,52,Design Engineer,Entertainment,Affluent Customer,No,9,2761,NSW,Australia,8,44,1.42109375,53.0
+Brooke,Arling,Male,76,Research Assistant I,Financial Services,High Net Worth,No,6,3027,VIC,Australia,5,44,1.42109375,58.0
+Gipsy,Ewestace,Female,29,Business Systems Development Analyst,Retail,High Net Worth,Yes,5,2034,NSW,Australia,12,46,1.4078125,63.0
+Sheena,Kybbye,Female,14,Paralegal,Financial Services,Affluent Customer,Yes,19,4852,QLD,Australia,1,46,1.4078125,64.0
+Jobina,Gobourn,Female,85,VP Quality Control,Retail,High Net Worth,Yes,14,4305,QLD,Australia,4,46,1.4078125,25.0
+Gale,Disbrow,Female,59,Cost Accountant,Financial Services,Mass Customer,Yes,17,3741,VIC,Australia,7,46,1.4078125,43.0
+Thaxter,Kingsbury,Male,12,Product Engineer,Argiculture,Mass Customer,No,20,2067,NSW,Australia,12,50,1.40625,70.0
+Heinrick,Shilstone,Male,60,Graphic Designer,Manufacturing,Affluent Customer,No,10,3174,VIC,Australia,8,50,1.40625,42.0
+Taylor,Steuhlmeyer,Male,62,Paralegal,Financial Services,Affluent Customer,Yes,5,4017,QLD,Australia,8,52,1.39453125,21.0
+Griswold,Kelsall,Male,55,Social Worker,Health,High Net Worth,Yes,11,3805,VIC,Australia,7,52,1.39453125,26.0
+Odessa,Mc Andrew,Female,97,Geologist III,Property,Mass Customer,No,8,2232,NSW,Australia,10,54,1.38125,38.0
+Lavena,Seekings,Female,87,Payment Adjustment Coordinator,Retail,Mass Customer,No,16,3166,VIC,Australia,10,54,1.38125,25.0
+Martelle,Tuppeny,Female,52,Marketing Assistant,Manufacturing,Mass Customer,No,9,2226,NSW,Australia,10,54,1.38125,39.0
+Briant,Ladley,Male,75,Recruiter,Argiculture,Mass Customer,No,12,2750,NSW,Australia,8,57,1.375,40.0
+Marylou,Kirkup,Female,51,VP Product Management,Entertainment,Mass Customer,No,14,3196,VIC,Australia,9,57,1.375,47.0
+Whittaker,Kirkup,Male,64,Media Manager III,Financial Services,Mass Customer,Yes,8,3156,VIC,Australia,5,57,1.375,53.0
+Normy,Goodinge,Male,5,Associate Professor,IT,Mass Customer,No,4,3810,VIC,Australia,5,57,1.375,29.0
+Lorrie,Antonelli,Male,47,Cost Accountant,Financial Services,High Net Worth,Yes,17,2257,NSW,Australia,7,57,1.375,37.0
+Jedediah,Kedie,Male,31,Developer I,Argiculture,Mass Customer,Yes,9,2763,NSW,Australia,9,62,1.36796875,48.0
+Kaine,Smallcombe,Male,59,Senior Financial Analyst,Financial Services,High Net Worth,No,11,2072,NSW,Australia,10,62,1.36796875,78.0
+Loise,Iltchev,Female,70,Electrical Engineer,Manufacturing,High Net Worth,Yes,17,4504,QLD,Australia,6,62,1.36796875,53.0
+Cristen,Maroney,Female,22,Accountant IV,IT,High Net Worth,Yes,7,4214,QLD,Australia,7,65,1.3625,20.0
+Dorothy,Barnardo,Female,58,Human Resources Manager,Retail,High Net Worth,No,12,2168,NSW,Australia,8,65,1.3625,37.0
+Rosmunda,Duxbarry,Female,69,Executive Secretary,Property,Affluent Customer,Yes,5,4208,QLD,Australia,11,65,1.3625,23.0
+Rozamond,Riha,Female,54,Account Representative I,Manufacturing,Affluent Customer,Yes,16,4078,QLD,Australia,7,68,1.3546875,35.0
+Gunner,Petti,Male,62,Executive Secretary,Financial Services,High Net Worth,Yes,3,4036,QLD,Australia,5,68,1.3546875,21.0
+Vivienne,Crayden,Female,82,Associate Professor,Manufacturing,High Net Worth,Yes,6,4173,QLD,Australia,7,68,1.3546875,31.0
+Sherilyn,Canero,Female,11,Dental Hygienist,Health,High Net Worth,Yes,13,2484,NSW,Australia,7,68,1.3546875,23.0
+Bessie,Roscow,Female,78,GIS Technical Architect,Financial Services,Mass Customer,No,9,2121,NSW,Australia,10,72,1.35,25.0
+Kevina,Ferandez,Female,73,Assistant Professor,Financial Services,High Net Worth,No,15,4068,QLD,Australia,9,72,1.35,20.0
+Yancy,Clementet,Male,5,Mechanical Systems Engineer,Property,High Net Worth,No,15,2147,NSW,Australia,9,72,1.35,52.0
+Mabelle,Wellbelove,Female,76,Executive Secretary,Financial Services,Affluent Customer,Yes,19,2219,NSW,Australia,9,72,1.35,62.0
+Hasheem,Groucock,Male,98,Budget/Accounting Analyst IV,Manufacturing,High Net Worth,Yes,10,2034,NSW,Australia,12,72,1.35,45.0
+Tobias,Woodhams,Male,0,Research Nurse,Health,Mass Customer,No,17,2759,NSW,Australia,9,77,1.34140625,59.0
+Glennis,Flintoff,Female,36,Speech Pathologist,Health,Affluent Customer,Yes,13,3030,VIC,Australia,7,78,1.3375,63.0
+Chanda,Mensler,Female,15,Computer Systems Analyst IV,Manufacturing,Mass Customer,Yes,13,2212,NSW,Australia,10,78,1.3375,48.0
+Katheryn,Kinner,Female,15,Analyst Programmer,Entertainment,High Net Worth,No,6,2518,NSW,Australia,6,78,1.3375,46.0
+Sumner,Carrivick,Male,53,Desktop Support Technician,Manufacturing,Mass Customer,No,15,2097,NSW,Australia,12,78,1.3375,25.0
+Valerie,Pickover,Female,34,Editor,Financial Services,Mass Customer,No,9,2756,NSW,Australia,8,78,1.3375,54.0
+Esther,Rooson,Female,14,VP Accounting,Financial Services,Mass Customer,No,5,2046,NSW,Australia,9,78,1.3375,39.0
+Gardie,Crellim,Male,58,Biostatistician IV,Manufacturing,High Net Worth,No,8,3161,VIC,Australia,12,84,1.328125,44.0
+Sean,O'Loughlin,Male,48,Database Administrator III,Manufacturing,High Net Worth,Yes,16,2576,NSW,Australia,10,85,1.325,59.0
+Pietra,Buckleigh,Female,9,Engineer III,Health,High Net Worth,No,13,2024,NSW,Australia,10,85,1.325,71.0
+Marysa,Rouchy,Female,8,Assistant Media Planner,Entertainment,Affluent Customer,No,5,2026,NSW,Australia,9,85,1.325,21.0
+Kahaleel,Rouchy,Male,5,GIS Technical Architect,Manufacturing,High Net Worth,No,13,2035,NSW,Australia,12,88,1.31484375,77.0
+Ossie,Midden,Male,49,Physical Therapy Assistant,Manufacturing,Mass Customer,Yes,14,2479,NSW,Australia,9,89,1.3125,70.0
+Sid,Carlone,Male,24,Structural Engineer,Health,Affluent Customer,No,16,4670,QLD,Australia,2,89,1.3125,48.0
+Ludovico,Juster,Male,93,Environmental Specialist,Retail,Affluent Customer,No,15,2125,NSW,Australia,10,89,1.3125,28.0
+Patricia,Everix,Female,34,Director of Sales,Health,Mass Customer,No,19,2263,NSW,Australia,7,89,1.3125,42.0
+Andromache,Bonafacino,Female,84,Tax Accountant,Retail,Mass Customer,No,11,2015,NSW,Australia,9,89,1.3125,42.0
+Levy,Abramamov,Male,94,Teacher,Property,Affluent Customer,Yes,14,4037,QLD,Australia,8,89,1.3125,67.0
+Nobe,McAughtry,Male,25,Engineer IV,Manufacturing,Mass Customer,No,12,4510,QLD,Australia,5,89,1.3125,41.0
+Jehu,Prestedge,Male,91,Developer II,Manufacturing,High Net Worth,Yes,8,2138,NSW,Australia,12,96,1.3,20.0
+Symon,Mawne,Male,18,Human Resources Assistant IV,Property,Mass Customer,Yes,15,3350,VIC,Australia,4,96,1.3,77.0
+Karlik,Penchen,Male,60,Nurse Practicioner,Retail,Mass Customer,No,11,4017,QLD,Australia,6,96,1.3,25.0
+Bengt,Bilson,Male,26,Structural Engineer,Manufacturing,High Net Worth,No,11,2232,NSW,Australia,10,99,1.296875,47.0
+Evangelin,Boc,Female,30,Structural Analysis Engineer,Manufacturing,High Net Worth,Yes,14,3173,VIC,Australia,8,99,1.296875,20.0
+Hanny,Treven,Female,84,Associate Professor,Retail,Mass Customer,No,3,4118,QLD,Australia,4,99,1.296875,29.0
+Gina,Mallon,Female,56,Dental Hygienist,Health,Mass Customer,No,12,4670,QLD,Australia,2,102,1.28828125,26.0
+Reynold,Elman,Male,19,Marketing Manager,Manufacturing,Mass Customer,No,9,2390,NSW,Australia,2,102,1.28828125,80.0
+Flossy,Concannon,Female,64,Staff Accountant IV,Financial Services,Affluent Customer,No,8,3919,VIC,Australia,2,104,1.2875,39.0
+Cristen,Wiltshire,Female,59,VP Sales,Financial Services,High Net Worth,Yes,15,3047,VIC,Australia,6,104,1.2875,58.0
+Griffith,Escot,Male,50,Accountant III,IT,Mass Customer,Yes,16,4116,QLD,Australia,3,104,1.2875,73.0
+Jamie,Jiruca,Female,21,Recruiting Manager,Argiculture,Mass Customer,No,18,2230,NSW,Australia,9,104,1.2875,57.0
+Lyon,Brittan,Male,14,Sales Representative,Retail,High Net Worth,No,19,3153,VIC,Australia,8,104,1.2875,48.0
+Aridatha,Sephton,Female,95,Human Resources Assistant II,Manufacturing,Mass Customer,No,5,2340,NSW,Australia,1,104,1.2875,58.0
+Michal,Bryan,Female,1,Desktop Support Technician,Manufacturing,Mass Customer,Yes,16,4000,QLD,Australia,8,104,1.2875,50.0
+Franciska,Stigell,Female,95,Food Chemist,Health,Mass Customer,Yes,7,3802,VIC,Australia,7,111,1.28125,51.0
+Jordan,Clampe,Male,37,Staff Scientist,Financial Services,Mass Customer,Yes,11,4207,QLD,Australia,5,111,1.28125,80.0
+David,Napoleon,Male,72,Structural Engineer,Telecommunications,High Net Worth,No,14,2223,NSW,Australia,11,111,1.28125,58.0
+Meriel,Tapp,Female,0,VP Sales,IT,Mass Customer,No,5,3280,VIC,Australia,2,114,1.275,24.0
+Dolley,Starmont,Female,53,Geologist IV,Manufacturing,Affluent Customer,No,18,4129,QLD,Australia,6,114,1.275,42.0
+Frederik,Milan,Male,45,Desktop Support Technician,Health,Mass Customer,No,5,2546,NSW,Australia,5,114,1.275,22.0
+Rollo,Louedey,Male,64,Information Systems Manager,Telecommunications,Affluent Customer,Yes,17,2089,NSW,Australia,9,114,1.275,74.0
+Jerrine,Cosbey,Female,21,Junior Executive,Financial Services,High Net Worth,Yes,6,3094,VIC,Australia,9,114,1.275,42.0
+Roddy,Rubinshtein,Male,37,Nurse Practicioner,Retail,Mass Customer,Yes,4,4510,QLD,Australia,7,114,1.275,32.0
+Viki,Coutts,Female,2,Automation Specialist II,Property,Mass Customer,Yes,7,2287,NSW,Australia,4,120,1.2625,67.0
+Ashby,Bispham,Male,71,Software Consultant,Retail,Affluent Customer,No,4,2145,NSW,Australia,8,120,1.2625,38.0
+Alexander,Broadbent,Male,57,Desktop Support Technician,Financial Services,Mass Customer,No,9,2209,NSW,Australia,10,120,1.2625,23.0
+Teddy,Lagadu,Female,86,Design Engineer,IT,High Net Worth,No,6,2759,NSW,Australia,8,120,1.2625,50.0
+Peria,Rantoull,Female,3,Financial Analyst,Financial Services,Mass Customer,No,4,4500,QLD,Australia,4,120,1.2625,45.0
+Ludvig,Andren,Male,44,Media Manager III,Financial Services,High Net Worth,Yes,15,4306,QLD,Australia,5,125,1.26171875,79.0
+Elsworth,Abbitt,Male,71,Director of Sales,Health,Mass Customer,Yes,6,3500,VIC,Australia,3,125,1.26171875,64.0
+Rebeca,Aggas,Female,66,Social Worker,Health,Affluent Customer,No,21,3818,VIC,Australia,1,127,1.25,67.0
+Ricki,Dobrowski,Male,13,Civil Engineer,Manufacturing,Mass Customer,Yes,9,2835,NSW,Australia,1,127,1.25,45.0
+Georgetta,Lovett,Female,42,Editor,Retail,Mass Customer,No,12,4405,QLD,Australia,1,127,1.25,80.0
+Bambi,Cogger,Female,51,Design Engineer,Retail,Affluent Customer,Yes,5,2560,NSW,Australia,7,127,1.25,30.0
+Aurie,Rhead,Female,78,Geological Engineer,Manufacturing,Affluent Customer,Yes,5,2650,NSW,Australia,2,127,1.25,57.0
+Farris,Skettles,Male,38,Payment Adjustment Coordinator,Financial Services,Mass Customer,Yes,13,3240,VIC,Australia,7,132,1.2484375,55.0
+Sharline,Abyss,Female,11,Budget/Accounting Analyst IV,Financial Services,Mass Customer,Yes,15,4011,QLD,Australia,4,133,1.2375,60.0
+Nowell,Preddy,Male,29,Administrative Officer,Manufacturing,Mass Customer,No,9,2173,NSW,Australia,9,133,1.2375,34.0
+Lacy,Drance,Female,27,Graphic Designer,Manufacturing,Affluent Customer,Yes,14,2750,NSW,Australia,8,133,1.2375,42.0
+Padraig,Snel,Male,89,Staff Accountant II,Health,Mass Customer,No,19,2114,NSW,Australia,7,133,1.2375,49.0
+Malorie,Votier,Female,90,Graphic Designer,Manufacturing,Affluent Customer,No,4,4509,QLD,Australia,5,133,1.2375,30.0
+Shepperd,Ricards,Male,28,Social Worker,Health,Mass Customer,Yes,16,2284,NSW,Australia,4,133,1.2375,52.0
+Daryl,Pauncefort,Female,12,Community Outreach Specialist,Financial Services,Mass Customer,Yes,12,2380,NSW,Australia,3,133,1.2375,41.0
+Norina,Blakeway,Female,60,Programmer Analyst II,Property,Mass Customer,Yes,3,3081,VIC,Australia,8,133,1.2375,40.0
+My,Chaston,Male,92,Desktop Support Technician,Manufacturing,Affluent Customer,Yes,16,3765,VIC,Australia,9,133,1.2375,54.0
+Isak,Bergstram,Male,14,Pharmacist,Health,Affluent Customer,Yes,15,2176,NSW,Australia,9,142,1.23515625,19.0
+Grannie,Cracker,Male,28,VP Marketing,Retail,Mass Customer,Yes,20,4217,QLD,Australia,8,142,1.23515625,71.0
+Welby,Lourenco,Male,6,Senior Cost Accountant,Financial Services,High Net Worth,Yes,17,2138,NSW,Australia,9,144,1.234375,44.0
+Glenn,Casbourne,Female,4,Senior Editor,Manufacturing,Mass Customer,No,6,4207,QLD,Australia,1,144,1.234375,38.0
+Nadiya,Balasini,Female,40,Sales Associate,Financial Services,Mass Customer,No,15,2164,NSW,Australia,9,146,1.225,69.0
+Tyne,Coate,Female,82,Developer II,Manufacturing,Mass Customer,No,17,2218,NSW,Australia,8,146,1.225,55.0
+Christie,Anders,Male,38,VP Marketing,Retail,Mass Customer,No,16,2153,NSW,Australia,10,146,1.225,50.0
+Agnella,Capener,Female,58,Teacher,Health,High Net Worth,No,19,3977,VIC,Australia,6,146,1.225,51.0
+Bernardine,Delmonti,Female,39,Analog Circuit Design manager,Property,Mass Customer,No,17,2540,NSW,Australia,8,146,1.225,49.0
+Daisy,Spowart,Female,60,Staff Accountant I,Health,Affluent Customer,Yes,4,4570,QLD,Australia,3,146,1.225,52.0
+Denys,Minshall,Female,30,Environmental Tech,Manufacturing,Affluent Customer,Yes,14,2324,NSW,Australia,8,152,1.221875,58.0
+Archibald,Blessed,Male,61,VP Sales,Financial Services,Mass Customer,Yes,18,2016,NSW,Australia,11,153,1.21875,51.0
+Feodor,Englishby,Male,54,Account Coordinator,Health,Mass Customer,No,11,3201,VIC,Australia,5,154,1.203125,58.0
+Skippie,Yearsley,Male,6,Compensation Analyst,Financial Services,Mass Customer,No,9,4350,QLD,Australia,5,155,1.2,63.0
+Bill,Yearsley,Female,74,Human Resources Assistant II,Property,Mass Customer,Yes,19,2170,NSW,Australia,9,155,1.2,57.0
+Tessa,Friese,Female,89,Health Coach II,Financial Services,Mass Customer,No,21,4212,QLD,Australia,9,157,1.1953125,43.0
+Roseanne,Caruth,Female,16,Programmer Analyst III,Health,Mass Customer,No,7,2763,NSW,Australia,9,158,1.1875,63.0
+Tedra,Goodbanne,Female,4,Senior Quality Engineer,IT,Mass Customer,Yes,6,3934,VIC,Australia,9,158,1.1875,42.0
+Roberto,Harme,Male,27,Environmental Tech,Financial Services,High Net Worth,No,10,2564,NSW,Australia,9,158,1.1875,69.0
+Nichole,Leisman,Male,37,Geologist III,Property,Affluent Customer,No,4,2068,NSW,Australia,12,158,1.1875,33.0
+Amil,Ennor,Female,23,Health Coach II,Health,Mass Customer,Yes,10,3109,VIC,Australia,11,158,1.1875,24.0
+Shawna,Hinrichsen,Female,60,Assistant Professor,Manufacturing,Affluent Customer,Yes,9,2326,NSW,Australia,2,163,1.18203125,50.0
+Fonsie,Levane,Male,96,Account Representative III,Argiculture,High Net Worth,Yes,19,4011,QLD,Australia,3,163,1.18203125,69.0
+Emilie,Brody,Female,3,Director of Sales,Health,Mass Customer,Yes,3,2073,NSW,Australia,11,163,1.18203125,41.0
+Robert,Corkill,Male,55,Clinical Specialist,Health,Mass Customer,No,4,2227,NSW,Australia,10,166,1.175,44.0
+Elvira,Kurten,Female,65,Assistant Professor,Financial Services,High Net Worth,No,12,2471,NSW,Australia,3,166,1.175,47.0
+Juliana,Mitchenson,Female,55,Environmental Tech,Manufacturing,Mass Customer,Yes,8,4350,QLD,Australia,4,166,1.175,31.0
+Regine,Bownes,Female,99,Senior Developer,Retail,Affluent Customer,No,15,3752,VIC,Australia,9,166,1.175,68.0
+Abner,Fraschetti,Male,33,Staff Scientist,Argiculture,Affluent Customer,No,13,3805,VIC,Australia,7,166,1.175,34.0
+Alvira,Coulman,Female,42,Account Representative II,Health,Affluent Customer,No,14,2205,NSW,Australia,9,166,1.175,65.0
+Sawyer,Sponton,Male,36,Help Desk Technician,Property,Mass Customer,Yes,10,2126,NSW,Australia,11,166,1.175,64.0
+Feodor,Vickers,Male,60,VP Quality Control,Financial Services,Mass Customer,Yes,4,2209,NSW,Australia,6,173,1.171875,30.0
+Paten,Cayet,Male,56,Assistant Manager,Manufacturing,Affluent Customer,Yes,16,3850,VIC,Australia,1,174,1.16875,25.0
+Loria,Tappington,Female,72,Research Assistant IV,Property,Mass Customer,No,5,3038,VIC,Australia,8,174,1.16875,64.0
+Tanya,Kiefer,Female,54,Speech Pathologist,Telecommunications,High Net Worth,No,7,2146,NSW,Australia,9,174,1.16875,28.0
+Devonne,Alderwick,Female,79,Research Associate,Retail,High Net Worth,Yes,9,3122,VIC,Australia,7,177,1.1625,81.0
+Omero,McDonand,Male,51,Software Consultant,Manufacturing,Mass Customer,No,16,2066,NSW,Australia,9,177,1.1625,68.0
+Iain,Haversham,Male,92,Sales Representative,Retail,Mass Customer,Yes,13,2120,NSW,Australia,10,177,1.1625,69.0
+Keriann,Newham,Female,71,Assistant Manager,Financial Services,Mass Customer,No,5,4179,QLD,Australia,9,177,1.1625,45.0
+Conroy,Rappaport,Male,39,Assistant Manager,Health,High Net Worth,No,9,2148,NSW,Australia,9,181,1.158125,55.0
+Dorian,Rustman,Male,78,Junior Executive,Manufacturing,Mass Customer,No,18,4352,QLD,Australia,7,181,1.158125,45.0
+Quillan,Guinane,Male,36,Community Outreach Specialist,Health,High Net Worth,Yes,21,2177,NSW,Australia,8,181,1.158125,74.0
+Harlin,Mazin,Male,34,Computer Systems Analyst I,Manufacturing,Mass Customer,Yes,13,2454,NSW,Australia,7,181,1.158125,46.0
+Eustacia,Dornan,Female,68,Account Representative IV,Property,Mass Customer,No,5,3806,VIC,Australia,9,181,1.158125,34.0
+Maury,Galego,Male,65,Social Worker,Health,High Net Worth,Yes,3,3032,VIC,Australia,10,181,1.158125,27.0
+Reggie,Kernar,Female,26,Senior Editor,Financial Services,High Net Worth,No,17,2228,NSW,Australia,10,181,1.158125,48.0
+Brigitte,Whellams,Female,67,Payment Adjustment Coordinator,Health,Mass Customer,Yes,17,2766,NSW,Australia,8,188,1.15625,47.0
+Kinna,Kollasch,Female,7,Safety Technician I,Property,High Net Worth,No,9,4060,QLD,Australia,10,188,1.15625,33.0
+Maurizio,Comi,Male,74,VP Product Management,IT,Affluent Customer,No,10,2766,NSW,Australia,9,190,1.15546875,24.0
+Elbertina,Fendley,Female,32,Physical Therapy Assistant,Property,Affluent Customer,No,8,2117,NSW,Australia,11,191,1.15,28.0
+Franklin,Wohler,Male,55,Clinical Specialist,Health,Mass Customer,Yes,7,2250,NSW,Australia,8,191,1.15,81.0
+Allyson,Petchell,Female,16,Human Resources Manager,Telecommunications,High Net Worth,No,10,2170,NSW,Australia,8,191,1.15,50.0
+Ermentrude,Heindle,Female,47,GIS Technical Architect,Argiculture,Mass Customer,No,7,2226,NSW,Australia,10,191,1.15,50.0
+Alanna,Lerway,Female,26,Dental Hygienist,Health,Mass Customer,Yes,11,3195,VIC,Australia,12,195,1.1475,76.0
+Vincent,Jopke,Male,6,Analog Circuit Design manager,Property,Affluent Customer,No,16,3687,VIC,Australia,3,195,1.1475,48.0
+Mandie,Jeffryes,Female,60,Business Systems Development Analyst,Financial Services,High Net Worth,No,7,4109,QLD,Australia,9,195,1.1475,39.0
+Collete,Dory,Female,66,Information Systems Manager,Property,High Net Worth,No,2,2210,NSW,Australia,9,195,1.1475,30.0
+Leonid,Dorricott,Male,44,Environmental Tech,IT,Affluent Customer,No,3,2448,NSW,Australia,3,195,1.1475,26.0
+Charlena,Berney,Female,55,Geological Engineer,Manufacturing,High Net Worth,Yes,12,4207,QLD,Australia,4,195,1.1475,54.0
+Alfonso,Massel,Male,70,Research Assistant IV,Property,Mass Customer,Yes,13,3977,VIC,Australia,7,201,1.1421875,79.0
+Engracia,Dobbs,Female,84,Software Consultant,Health,Mass Customer,No,15,2250,NSW,Australia,8,202,1.140625,61.0
+Glyn,Dobbs,Male,47,General Manager,Manufacturing,Affluent Customer,Yes,21,2300,NSW,Australia,9,202,1.140625,75.0
+Rosemonde,Cartwight,Female,44,Analyst Programmer,Retail,Mass Customer,Yes,7,4605,QLD,Australia,1,202,1.140625,67.0
+Alano,Satchel,Male,2,Recruiting Manager,Financial Services,Mass Customer,No,2,2429,NSW,Australia,7,202,1.140625,21.0
+Corrine,Baribal,Female,19,Senior Sales Associate,Manufacturing,Affluent Customer,Yes,12,2170,NSW,Australia,8,206,1.1375,71.0
+Benoit,Harniman,Male,31,Research Assistant II,Telecommunications,Affluent Customer,No,9,4018,QLD,Australia,7,206,1.1375,43.0
+Jeanne,Darte,Female,70,Business Systems Development Analyst,Health,Mass Customer,Yes,11,2756,NSW,Australia,7,206,1.1375,64.0
+Jenelle,Fearnill,Female,12,Social Worker,Health,High Net Worth,No,19,2144,NSW,Australia,9,206,1.1375,62.0
+Tannie,Gambrell,Male,92,Financial Analyst,Financial Services,Affluent Customer,No,4,4710,QLD,Australia,4,206,1.1375,53.0
+Mick,Macewan,Male,32,Senior Cost Accountant,Financial Services,Mass Customer,No,16,2032,NSW,Australia,10,206,1.1375,52.0
+Abbie,Oldman,Male,82,Pharmacist,Health,High Net Worth,Yes,5,2168,NSW,Australia,8,212,1.136875,36.0
+Tabbie,Curner,Male,12,Chief Design Engineer,Retail,Mass Customer,No,6,3021,VIC,Australia,6,212,1.136875,23.0
+Shane,Killen,Male,28,Account Executive,Entertainment,High Net Worth,No,10,2165,NSW,Australia,8,212,1.136875,63.0
+Roberta,Goodale,Female,9,Information Systems Manager,Property,Mass Customer,Yes,22,4211,QLD,Australia,7,215,1.12890625,73.0
+Kippy,Barabisch,Male,11,Legal Assistant,Manufacturing,Mass Customer,No,4,2125,NSW,Australia,11,215,1.12890625,20.0
+Rosalinde,Cubuzzi,Female,50,Business Systems Development Analyst,Health,Mass Customer,No,5,2444,NSW,Australia,7,215,1.12890625,22.0
+Cami,Barnbrook,Female,8,Occupational Therapist,Health,Affluent Customer,Yes,18,4285,QLD,Australia,2,218,1.12625,57.0
+Dorian,Stollen,Male,78,Statistician I,Financial Services,Mass Customer,Yes,18,2026,NSW,Australia,11,219,1.125,40.0
+Hunfredo,Hayball,Male,7,Geologist III,IT,Affluent Customer,No,3,2227,NSW,Australia,8,219,1.125,26.0
+Giorgi,O'Shirine,Male,68,Payment Adjustment Coordinator,Retail,Mass Customer,Yes,15,3934,VIC,Australia,8,219,1.125,39.0
+Kort,Disley,Male,66,Technical Writer,Health,Mass Customer,Yes,7,2160,NSW,Australia,9,219,1.125,41.0
+Gretna,Thredder,Female,62,Developer I,Argiculture,Mass Customer,No,18,2203,NSW,Australia,11,223,1.115625,54.0
+Tobiah,Heinsius,Male,66,Chief Design Engineer,Health,High Net Worth,No,9,2446,NSW,Australia,8,223,1.115625,20.0
+Wallace,Newart,Male,91,Business Systems Development Analyst,IT,Mass Customer,No,17,4650,QLD,Australia,1,223,1.115625,42.0
+Hersh,Stubbert,Male,0,Technical Writer,Manufacturing,Mass Customer,Yes,15,4115,QLD,Australia,8,226,1.1125,20.0
+Hatti,Carletti,Male,35,Legal Assistant,IT,Affluent Customer,Yes,11,2519,NSW,Australia,9,226,1.1125,31.0
+Wyn,Saynor,Male,54,Cost Accountant,Financial Services,High Net Worth,No,8,2099,NSW,Australia,9,226,1.1125,56.0
+Maribeth,Stivani,Female,46,Associate Professor,Financial Services,Mass Customer,No,7,2430,NSW,Australia,8,226,1.1125,65.0
+Abigale,Sives,Female,48,VP Marketing,Health,Affluent Customer,Yes,14,4207,QLD,Australia,4,230,1.109375,56.0
+Gothart,Artus,Male,52,Health Coach IV,Health,Mass Customer,Yes,14,2117,NSW,Australia,10,231,1.105,42.0
+Danny,Bodle,Male,50,Statistician I,Manufacturing,Mass Customer,Yes,18,2007,NSW,Australia,9,231,1.105,76.0
+Vittorio,Boxen,Male,94,Mechanical Systems Engineer,Telecommunications,Mass Customer,No,14,2148,NSW,Australia,9,233,1.1,54.0
+Deborah,Petrovsky,Female,53,Teacher,Property,Mass Customer,No,16,2011,NSW,Australia,7,233,1.1,77.0
+Agace,Hedge,Female,25,Media Manager II,Manufacturing,Mass Customer,Yes,13,3429,VIC,Australia,8,233,1.1,22.0
+Rolland,Esmead,Male,41,Desktop Support Technician,Health,Affluent Customer,No,8,2200,NSW,Australia,8,233,1.1,80.0
+Latrena,Walklate,Female,97,Mechanical Systems Engineer,Telecommunications,High Net Worth,Yes,13,2281,NSW,Australia,8,237,1.094375,76.0
+Mariquilla,Springthorpe,Female,30,Director of Sales,Property,Mass Customer,Yes,8,2224,NSW,Australia,10,237,1.094375,81.0
+Leticia,Danovich,Female,84,Design Engineer,Entertainment,Mass Customer,Yes,15,4307,QLD,Australia,1,237,1.094375,78.0
+Harman,Lynds,Male,4,Professor,Health,Mass Customer,Yes,5,4105,QLD,Australia,8,240,1.09,59.0
+Farra,Matyushkin,Female,18,VP Quality Control,Manufacturing,High Net Worth,Yes,9,3170,VIC,Australia,9,241,1.0875,46.0
+Robenia,Monks,Female,94,Nurse Practicioner,Manufacturing,Mass Customer,No,5,4065,QLD,Australia,9,241,1.0875,61.0
+Roman,Eastwood,Male,57,Associate Professor,Manufacturing,Affluent Customer,Yes,16,3004,VIC,Australia,4,241,1.0875,50.0
+Solomon,Bruck,Male,29,Junior Executive,Health,Mass Customer,No,12,4556,QLD,Australia,8,244,1.08375,62.0
+Krystyna,Airey,Female,2,Safety Technician II,Health,Mass Customer,Yes,19,4006,QLD,Australia,5,244,1.08375,69.0
+Katharine,Redbourn,Female,8,Recruiter,Manufacturing,Affluent Customer,Yes,4,3134,VIC,Australia,10,244,1.08375,52.0
+Cammy,Stoneham,Female,74,Business Systems Development Analyst,Financial Services,High Net Worth,No,14,4680,QLD,Australia,3,244,1.08375,57.0
+Ellsworth,Andrieux,Male,49,Senior Cost Accountant,Financial Services,Affluent Customer,Yes,10,4036,QLD,Australia,7,248,1.078125,49.0
+Federico,Leuty,Male,59,Product Engineer,Property,High Net Worth,Yes,11,2380,NSW,Australia,4,249,1.07578125,41.0
+Ferdy,Hornung,Male,57,Analog Circuit Design manager,Entertainment,High Net Worth,No,18,4506,QLD,Australia,3,250,1.075,46.0
+Sunny,Christescu,Female,90,Cost Accountant,Financial Services,Mass Customer,No,11,2209,NSW,Australia,10,250,1.075,45.0
+Shadow,Yakutin,Male,85,Software Test Engineer IV,Health,Affluent Customer,Yes,6,4119,QLD,Australia,2,252,1.073125,53.0
+Sharai,Priddie,Female,13,Sales Representative,Retail,Mass Customer,No,9,2145,NSW,Australia,9,252,1.073125,59.0
+Celeste,Fretson,Female,91,Product Engineer,IT,Mass Customer,No,9,2166,NSW,Australia,9,252,1.073125,39.0
+Lea,Ilyinski,Female,75,Structural Analysis Engineer,Financial Services,High Net Worth,No,12,2026,NSW,Australia,12,252,1.073125,22.0
+Dyann,Olechnowicz,Female,17,Nuclear Power Engineer,Manufacturing,Mass Customer,No,16,3031,VIC,Australia,10,252,1.073125,81.0
+Delly,Sunman,Female,49,Account Coordinator,Retail,Mass Customer,No,15,3206,VIC,Australia,12,252,1.073125,61.0
+Malvin,Ryhorovich,Male,37,Quality Control Specialist,Financial Services,Mass Customer,No,5,4818,QLD,Australia,3,252,1.073125,58.0
+Tanya,Hamberston,Female,45,Product Engineer,Property,Mass Customer,Yes,9,4113,QLD,Australia,6,259,1.0625,19.0
+Kaela,Romaines,Female,41,Geological Engineer,Manufacturing,High Net Worth,No,19,2155,NSW,Australia,10,259,1.0625,48.0
+Evonne,Bembridge,Female,9,Recruiting Manager,Retail,Mass Customer,Yes,14,3103,VIC,Australia,9,259,1.0625,51.0
+Shannen,Lewin,Female,21,Analog Circuit Design manager,Argiculture,High Net Worth,No,6,4210,QLD,Australia,6,259,1.0625,29.0
+Bogey,Attew,Male,88,Software Engineer II,IT,Mass Customer,Yes,10,4165,QLD,Australia,9,259,1.0625,27.0
+Zondra,Ringham,Female,36,Cost Accountant,Financial Services,Mass Customer,Yes,7,4510,QLD,Australia,5,259,1.0625,72.0
+Barnebas,Apfel,Male,57,Account Executive,Manufacturing,Affluent Customer,Yes,2,4000,QLD,Australia,6,259,1.0625,24.0
+Alleen,Eaken,Female,56,Electrical Engineer,Manufacturing,Mass Customer,No,10,2089,NSW,Australia,12,259,1.0625,81.0
+Gerri,Schimann,Female,81,Desktop Support Technician,Property,Mass Customer,Yes,18,2566,NSW,Australia,8,259,1.0625,50.0
+Antonietta,Egle,Female,82,Actuary,Financial Services,Mass Customer,No,7,3805,VIC,Australia,7,259,1.0625,46.0
+Raff,Waycott,Male,70,Engineer IV,Manufacturing,Affluent Customer,Yes,14,3977,VIC,Australia,7,259,1.0625,68.0
+Lark,Gonet,Female,89,Database Administrator II,Health,High Net Worth,No,8,2763,NSW,Australia,8,259,1.0625,48.0
+Cletis,Longley,Male,84,Chemical Engineer,Manufacturing,High Net Worth,Yes,1,3199,VIC,Australia,7,271,1.06,24.0
+Bartram,Di Lucia,Male,70,Software Consultant,Argiculture,Mass Customer,Yes,5,2480,NSW,Australia,3,271,1.06,59.0
+Theresa,Cowper,Female,99,Accountant III,Manufacturing,Mass Customer,No,3,2529,NSW,Australia,10,271,1.06,43.0
+Philbert,Raraty,Male,48,Executive Secretary,Manufacturing,Mass Customer,No,6,2177,NSW,Australia,9,274,1.051875,64.0
+Egon,Ortells,Male,35,Structural Engineer,Manufacturing,Affluent Customer,No,13,2168,NSW,Australia,9,274,1.051875,44.0
+Dahlia,Shovlar,Female,90,Environmental Specialist,Financial Services,Affluent Customer,Yes,7,3976,VIC,Australia,3,274,1.051875,54.0
+Timi,Duny,Female,70,Office Assistant II,Telecommunications,High Net Worth,No,6,2092,NSW,Australia,12,274,1.051875,67.0
+Dominick,Asher,Male,50,Research Associate,Health,Affluent Customer,Yes,5,3804,VIC,Australia,9,278,1.05,57.0
+Raye,Roo,Female,64,Database Administrator I,Financial Services,Mass Customer,Yes,16,3046,VIC,Australia,9,278,1.05,44.0
+Becka,Hacon,Female,81,General Manager,Financial Services,Affluent Customer,No,17,3791,VIC,Australia,9,278,1.05,55.0
+Cirillo,Frossell,Male,7,Graphic Designer,Manufacturing,Mass Customer,No,6,2111,NSW,Australia,12,278,1.05,51.0
+Verla,Dumingos,Female,26,Design Engineer,Telecommunications,Mass Customer,Yes,10,3021,VIC,Australia,8,282,1.04921875,48.0
+Sherrie,Godleman,Female,37,Associate Professor,Manufacturing,Mass Customer,No,19,3350,VIC,Australia,2,282,1.04921875,42.0
+Dexter,Shutle,Male,81,Quality Control Specialist,Property,Mass Customer,No,17,4005,QLD,Australia,7,284,1.046875,61.0
+Konstanze,Hovie,Female,88,Pharmacist,Health,Mass Customer,No,11,4370,QLD,Australia,7,285,1.04125,53.0
+Bink,Bentje,Male,3,Payment Adjustment Coordinator,Financial Services,High Net Worth,Yes,19,2680,NSW,Australia,3,285,1.04125,63.0
+Taber,Szymon,Male,70,Senior Sales Associate,Argiculture,Affluent Customer,No,13,4659,QLD,Australia,8,287,1.04,73.0
+Debbi,Dannatt,Female,2,Technical Writer,Health,Affluent Customer,No,6,4218,QLD,Australia,10,287,1.04,61.0
+Giana,Staresmeare,Female,96,Account Representative IV,Retail,Affluent Customer,Yes,9,2770,NSW,Australia,7,289,1.0375,44.0
+Morton,Petkens,Male,50,Account Coordinator,Manufacturing,High Net Worth,Yes,10,3012,VIC,Australia,1,289,1.0375,29.0
+Vittoria,Whitney,Female,95,Research Assistant I,Financial Services,High Net Worth,No,12,2019,NSW,Australia,11,291,1.0359375,39.0
+Paquito,Atwood,Male,15,Nuclear Power Engineer,Manufacturing,Affluent Customer,No,9,3199,VIC,Australia,8,291,1.0359375,47.0
+Dimitri,Tribbeck,Male,89,Chief Design Engineer,Manufacturing,Affluent Customer,No,20,3165,VIC,Australia,6,291,1.0359375,61.0
+Shelli,Bartholomaus,Female,88,Associate Professor,Health,Mass Customer,Yes,6,3082,VIC,Australia,7,291,1.0359375,57.0
+Kermit,Lebond,Male,36,Financial Advisor,Financial Services,Mass Customer,No,4,4208,QLD,Australia,8,295,1.03125,40.0
+Biddie,Gorce,Female,68,Senior Financial Analyst,Financial Services,Mass Customer,Yes,5,2795,NSW,Australia,7,295,1.03125,32.0
+Rupert,Marrow,Male,73,Software Engineer I,Property,High Net Worth,No,19,2760,NSW,Australia,8,297,1.030625,49.0
+Geoff,Sitford,Male,97,Account Executive,Financial Services,Mass Customer,Yes,4,2148,NSW,Australia,8,297,1.030625,55.0
+Ange,Chitham,Female,91,Web Designer II,Argiculture,Mass Customer,No,10,2560,NSW,Australia,8,297,1.030625,29.0
+Tiphanie,Blackader,Female,59,Physical Therapy Assistant,Retail,Mass Customer,No,17,2007,NSW,Australia,11,297,1.030625,72.0
+Zollie,Crinidge,Male,39,Systems Administrator I,Retail,Mass Customer,Yes,10,4019,QLD,Australia,5,297,1.030625,32.0
+Daisy,Pollen,Female,97,Cost Accountant,Financial Services,Mass Customer,No,7,3167,VIC,Australia,9,302,1.03,26.0
+Emelen,Bidnall,Male,79,Systems Administrator IV,Health,Affluent Customer,Yes,11,2026,NSW,Australia,12,302,1.03,38.0
+Linette,Boman,Female,56,Account Executive,Telecommunications,Affluent Customer,No,11,2076,NSW,Australia,11,304,1.025,71.0
+Manya,Abramovici,Female,42,Quality Engineer,Financial Services,High Net Worth,Yes,13,4214,QLD,Australia,8,304,1.025,65.0
+Brynna,Tivers,Female,81,Recruiting Manager,Financial Services,Mass Customer,No,6,4272,QLD,Australia,7,304,1.025,45.0
+Art,Carolan,Male,1,Marketing Manager,Manufacturing,Affluent Customer,Yes,11,2570,NSW,Australia,9,304,1.025,65.0
+Alfi,Sabbins,Female,63,Analyst Programmer,Financial Services,High Net Worth,Yes,18,2344,NSW,Australia,3,304,1.025,61.0
+Loleta,Aberdalgy,Female,45,Occupational Therapist,Health,Mass Customer,No,11,2287,NSW,Australia,6,304,1.025,39.0
+Aldric,Birney,Male,21,Environmental Specialist,Manufacturing,Mass Customer,Yes,14,2546,NSW,Australia,6,310,1.02265625,48.0
+Natividad,Balducci,Female,39,Programmer II,Property,High Net Worth,Yes,10,3206,VIC,Australia,11,310,1.02265625,29.0
+Claudine,Dymick,Female,28,Design Engineer,Health,Mass Customer,No,5,3977,VIC,Australia,5,312,1.02,54.0
+Seamus,Cains,Male,61,Teacher,Manufacturing,High Net Worth,No,7,2305,NSW,Australia,8,312,1.02,30.0
+Guss,Karim,Male,95,Senior Sales Associate,Manufacturing,Mass Customer,No,7,2227,NSW,Australia,11,312,1.02,51.0
+Julietta,Setchfield,Female,73,Operator,Health,High Net Worth,Yes,3,4170,QLD,Australia,8,312,1.02,28.0
+Roch,Symson,Female,96,Office Assistant I,Manufacturing,High Net Worth,No,18,3073,VIC,Australia,9,312,1.02,42.0
+Audry,Fann,Female,3,Pharmacist,Health,Mass Customer,Yes,15,3029,VIC,Australia,6,312,1.02,62.0
+Cecelia,Cisar,Female,20,Analog Circuit Design manager,Property,Mass Customer,Yes,15,4212,QLD,Australia,7,312,1.02,35.0
+Clari,Voas,Female,74,Human Resources Assistant II,Health,Affluent Customer,Yes,14,2127,NSW,Australia,8,312,1.02,64.0
+Zach,Hedman,Male,87,Analyst Programmer,Financial Services,Affluent Customer,Yes,4,2566,NSW,Australia,9,320,1.015625,38.0
+Paxon,Roomes,Male,78,Information Systems Manager,Financial Services,High Net Worth,Yes,7,3021,VIC,Australia,7,320,1.015625,43.0
+Parnell,Lamprey,Male,23,Engineer III,Financial Services,High Net Worth,No,12,2165,NSW,Australia,6,322,1.0125,43.0
+Honey,Gosdin,Female,0,Software Engineer I,Property,Mass Customer,No,17,2582,NSW,Australia,9,322,1.0125,38.0
+Sonny,McCart,Male,35,Account Representative I,Manufacturing,High Net Worth,No,9,3020,VIC,Australia,9,324,1.01,27.0
+Rozamond,Turtle,Male,69,Legal Assistant,IT,Mass Customer,Yes,3,3850,VIC,Australia,3,324,1.01,31.0
+Deirdre,Burgoine,Female,14,Programmer III,Health,High Net Worth,No,7,3000,VIC,Australia,1,326,1.009375,65.0
+Haleigh,Burgoine,Female,17,Senior Sales Associate,Financial Services,Mass Customer,Yes,18,4503,QLD,Australia,4,326,1.009375,68.0
+Aldridge,Poskitt,Male,84,VP Sales,Financial Services,Mass Customer,No,12,4161,QLD,Australia,5,326,1.009375,38.0
+Zechariah,McReidy,Male,32,Technical Writer,Manufacturing,High Net Worth,No,21,4207,QLD,Australia,6,329,1.0,41.0
+Carry,Costi,Female,32,Senior Developer,Property,Mass Customer,No,11,2800,NSW,Australia,4,329,1.0,47.0
+Alon,Costi,Male,17,Accountant IV,Health,Affluent Customer,No,9,4218,QLD,Australia,3,329,1.0,21.0
+Ahmed,Pickthorne,Male,46,Marketing Manager,Health,High Net Worth,Yes,15,2147,NSW,Australia,9,329,1.0,60.0
+Nil,Shirer,Male,64,Librarian,Entertainment,Mass Customer,Yes,7,3013,VIC,Australia,8,329,1.0,22.0
+Erhard,O'Moylane,Male,33,Media Manager I,Retail,Affluent Customer,Yes,9,3630,VIC,Australia,2,334,0.9987499999999998,42.0
+Vitia,Axtens,Female,62,Financial Advisor,Financial Services,Mass Customer,Yes,15,2011,NSW,Australia,10,334,0.9987499999999998,74.0
+Haskell,Moxted,Male,81,Civil Engineer,Manufacturing,Mass Customer,No,7,2145,NSW,Australia,9,334,0.9987499999999998,76.0
+Ebony,Conrad,Female,8,Environmental Tech,Financial Services,Mass Customer,Yes,16,3029,VIC,Australia,7,334,0.9987499999999998,20.0
+Lincoln,Boler,Male,53,Chief Design Engineer,Financial Services,Affluent Customer,No,14,3207,VIC,Australia,8,338,0.99609375,44.0
+Vladimir,Westmerland,Male,18,Assistant Professor,Manufacturing,Mass Customer,Yes,18,2640,NSW,Australia,4,338,0.99609375,64.0
+Kylynn,Drowsfield,Female,80,Editor,Retail,High Net Worth,Yes,7,3059,VIC,Australia,9,338,0.99609375,45.0
+Nicole,Ruckhard,Female,93,Human Resources Manager,Health,Affluent Customer,Yes,17,4560,QLD,Australia,3,341,0.99,50.0
+Celestina,Lethardy,Female,38,Software Consultant,IT,Mass Customer,Yes,11,3163,VIC,Australia,10,341,0.99,51.0
+Tannie,Petrakov,Male,84,Data Coordiator,IT,Affluent Customer,No,10,4078,QLD,Australia,6,341,0.99,68.0
+Bessy,Saladin,Female,22,VP Marketing,Manufacturing,Mass Customer,Yes,16,4075,QLD,Australia,10,341,0.99,80.0
+Diego,Van den Broek,Male,17,Business Systems Development Analyst,Manufacturing,Affluent Customer,Yes,13,4055,QLD,Australia,7,345,0.988125,55.0
+Lucilia,Minshall,Female,71,Data Coordiator,IT,Mass Customer,Yes,7,2750,NSW,Australia,8,345,0.988125,68.0
+Cissiee,Pollington,Female,43,Associate Professor,Property,Mass Customer,Yes,7,2256,NSW,Australia,9,345,0.988125,78.0
+Eddy,Sturch,Male,22,Software Consultant,Financial Services,High Net Worth,Yes,17,4158,QLD,Australia,6,345,0.988125,59.0
+Caron,Kezar,Female,11,Social Worker,Health,Mass Customer,No,5,2835,NSW,Australia,1,349,0.9875,66.0
+Sandor,Stirland,Male,67,Web Developer IV,Manufacturing,High Net Worth,No,12,3235,VIC,Australia,10,349,0.9875,39.0
+Gallagher,Bromell,Male,18,Assistant Manager,Property,Mass Customer,No,17,4556,QLD,Australia,8,349,0.9875,63.0
+Murial,Bulloch,Female,59,GIS Technical Architect,Financial Services,Mass Customer,No,13,2011,NSW,Australia,6,349,0.9875,55.0
+Delinda,Ech,Female,74,Environmental Specialist,Argiculture,Mass Customer,Yes,17,3101,VIC,Australia,10,349,0.9875,75.0
+Hussein,Tapenden,Male,19,Pharmacist,Health,Affluent Customer,Yes,12,2747,NSW,Australia,8,349,0.9875,66.0
+Giulietta,Garbott,Female,59,Technical Writer,Health,Affluent Customer,Yes,14,3810,VIC,Australia,5,355,0.984375,18.0
+Kaylyn,Jakaway,Female,45,Registered Nurse,Health,Affluent Customer,No,10,2290,NSW,Australia,8,356,0.9828125,39.0
+Brynn,Goodyear,Female,30,Human Resources Manager,Health,Mass Customer,Yes,11,3075,VIC,Australia,7,356,0.9828125,75.0
+Otis,Goodyear,Male,59,Electrical Engineer,Manufacturing,Affluent Customer,No,12,2075,NSW,Australia,11,358,0.98,49.0
+Tamas,Swatman,Female,65,Assistant Media Planner,Entertainment,Affluent Customer,No,5,4551,QLD,Australia,8,358,0.98,26.0
+Pace,Clemonts,Male,99,Media Manager IV,Retail,High Net Worth,No,10,3122,VIC,Australia,7,358,0.98,29.0
+Tracy,Andrejevic,Male,71,Programmer II,IT,Mass Customer,Yes,11,3030,VIC,Australia,7,361,0.9775,30.0
+Muffin,Grigolon,Male,7,Senior Editor,Telecommunications,Mass Customer,No,12,2232,NSW,Australia,10,361,0.9775,40.0
+Allsun,Biner,Female,67,Nurse Practicioner,Financial Services,Mass Customer,Yes,10,2641,NSW,Australia,2,361,0.9775,22.0
+Kenneth,Elleyne,Male,13,Technical Writer,Financial Services,Mass Customer,No,13,3145,VIC,Australia,11,361,0.9775,62.0
+Clotilda,Southers,Female,62,Computer Systems Analyst II,Financial Services,Mass Customer,Yes,15,2323,NSW,Australia,4,361,0.9775,20.0
+Augustus,Bourley,Male,60,Health Coach II,Health,Affluent Customer,No,18,4152,QLD,Australia,10,366,0.9750000000000001,38.0
+Daisi,Tinwell,Female,84,Business Systems Development Analyst,Financial Services,Mass Customer,No,11,2777,NSW,Australia,8,366,0.9750000000000001,48.0
+Gerik,Woodroof,Male,18,Paralegal,Financial Services,High Net Worth,Yes,9,3175,VIC,Australia,7,366,0.9750000000000001,61.0
+Claresta,MacConnulty,Female,6,Recruiting Manager,Manufacturing,Mass Customer,Yes,20,2026,NSW,Australia,9,366,0.9750000000000001,62.0
+Arty,Fontelles,Male,50,Help Desk Technician,IT,High Net Worth,No,4,3197,VIC,Australia,4,370,0.97,25.0
+Giulia,Hazart,Female,57,Help Desk Technician,IT,Mass Customer,No,11,4218,QLD,Australia,11,371,0.96875,41.0
+Whit,Emloch,Male,30,Food Chemist,Health,Mass Customer,Yes,6,2220,NSW,Australia,9,372,0.9668749999999999,56.0
+Rowan,Summerly,Male,4,Librarian,Entertainment,Mass Customer,No,9,2209,NSW,Australia,10,372,0.9668749999999999,46.0
+Ian,Rabat,Male,54,Web Designer I,Financial Services,Affluent Customer,No,11,3204,VIC,Australia,11,372,0.9668749999999999,44.0
+Agneta,McAmish,Male,66,Structural Analysis Engineer,IT,Mass Customer,No,15,4207,QLD,Australia,6,375,0.96,25.0
+Reginald,Jermy,Male,7,Director of Sales,Financial Services,High Net Worth,Yes,20,4128,QLD,Australia,8,375,0.96,59.0
+Link,Gorini,Male,60,Accountant IV,IT,High Net Worth,No,10,4600,QLD,Australia,2,375,0.96,45.0
+Harriet,Brattan,Female,81,Human Resources Assistant I,Financial Services,High Net Worth,No,2,3579,VIC,Australia,1,378,0.9562499999999999,33.0
+Sada,Branton,Female,34,Nuclear Power Engineer,Manufacturing,Affluent Customer,No,14,3199,VIC,Australia,6,378,0.9562499999999999,46.0
+Jenelle,Mc-Kerley,Female,40,Data Coordiator,Financial Services,Mass Customer,Yes,16,4068,QLD,Australia,5,378,0.9562499999999999,78.0
+Gabrila,Toopin,Female,7,Junior Executive,Manufacturing,Mass Customer,No,12,2456,NSW,Australia,6,378,0.9562499999999999,57.0
+Almira,Mangion,Female,4,VP Product Management,Financial Services,Affluent Customer,Yes,2,2230,NSW,Australia,12,382,0.95,24.0
+Arty,Strudwick,Male,85,Data Coordiator,Health,Mass Customer,Yes,8,2211,NSW,Australia,10,382,0.95,56.0
+Alexa,Dillet,Female,65,Product Engineer,Entertainment,Affluent Customer,No,17,2261,NSW,Australia,7,382,0.95,75.0
+Palmer,Heaven,Male,82,Staff Scientist,Financial Services,Affluent Customer,Yes,9,3754,VIC,Australia,6,382,0.95,25.0
+Porter,Buckenhill,Male,46,Help Desk Operator,Manufacturing,High Net Worth,Yes,9,4124,QLD,Australia,7,386,0.945625,66.0
+Kizzee,Kemston,Female,11,Account Executive,Health,Mass Customer,No,13,2767,NSW,Australia,8,386,0.945625,58.0
+Isadora,Ducker,Female,15,Account Executive,Health,Affluent Customer,Yes,8,3153,VIC,Australia,5,386,0.945625,46.0
+Giffie,Offill,Male,51,Structural Engineer,Telecommunications,Affluent Customer,No,5,4740,QLD,Australia,3,386,0.945625,27.0
+Fara,Sarath,Female,75,Quality Control Specialist,Manufacturing,Mass Customer,No,22,2168,NSW,Australia,7,386,0.945625,72.0
+Carolann,Raatz,Female,25,Chief Design Engineer,Property,High Net Worth,No,21,3977,VIC,Australia,6,386,0.945625,41.0
+Tamar,Windmill,Female,92,Senior Editor,Manufacturing,Affluent Customer,No,10,2207,NSW,Australia,10,386,0.945625,80.0
+Kipp,Stockport,Male,36,Data Coordiator,Retail,Mass Customer,Yes,6,2022,NSW,Australia,11,386,0.945625,37.0
+Packston,Wackett,Male,10,Quality Engineer,Financial Services,Mass Customer,No,19,3192,VIC,Australia,9,386,0.945625,70.0
+Hanson,Eastes,Male,74,Accountant III,Manufacturing,Mass Customer,Yes,5,3056,VIC,Australia,9,395,0.94,30.0
+Demetria,Bausor,Female,73,Assistant Media Planner,Entertainment,Mass Customer,Yes,9,2097,NSW,Australia,12,396,0.9375,58.0
+Lura,Fawdrie,Female,66,VP Sales,Health,Mass Customer,Yes,4,4211,QLD,Australia,3,396,0.9375,18.0
+Nora,Anselm,Female,84,Developer IV,Entertainment,High Net Worth,Yes,15,4342,QLD,Australia,5,396,0.9375,59.0
+Estevan,Eastment,Male,54,Environmental Specialist,Health,Mass Customer,Yes,21,2019,NSW,Australia,8,396,0.9375,77.0
+Aloysius,Glowacz,Male,72,Financial Advisor,Financial Services,Affluent Customer,No,18,2232,NSW,Australia,10,396,0.9375,41.0
+Bastien,Ibbeson,Male,53,Software Consultant,IT,Mass Customer,No,12,2487,NSW,Australia,5,401,0.935,43.0
+Otha,Langworthy,Female,91,Senior Financial Analyst,Financial Services,Mass Customer,Yes,13,3130,VIC,Australia,10,401,0.935,53.0
+Gannie,Bargh,Male,56,Analyst Programmer,Financial Services,Mass Customer,Yes,13,3201,VIC,Australia,7,401,0.935,65.0
+Dwayne,Doel,Male,80,Cost Accountant,Financial Services,Affluent Customer,Yes,17,2223,NSW,Australia,11,401,0.935,42.0
+Leese,Huckleby,Female,67,Help Desk Operator,Manufacturing,High Net Worth,Yes,16,3777,VIC,Australia,7,405,0.93,42.0
+Dodi,Kiggel,Female,5,Computer Systems Analyst II,Financial Services,Mass Customer,Yes,13,2114,NSW,Australia,11,405,0.93,39.0
+Kippar,Brimilcome,Male,21,Graphic Designer,Health,Mass Customer,No,19,2089,NSW,Australia,11,405,0.93,81.0
+Corinna,Beretta,Female,24,Programmer III,Health,High Net Worth,No,12,3023,VIC,Australia,7,408,0.9296875,24.0
+Laurie,Odlin,Female,75,Social Worker,Health,High Net Worth,No,10,3194,VIC,Australia,10,409,0.925,37.0
+Mair,Erett,Female,15,Speech Pathologist,Entertainment,Affluent Customer,No,18,2117,NSW,Australia,7,409,0.925,62.0
+Marcelia,Copins,Female,81,Associate Professor,Property,Mass Customer,Yes,21,2259,NSW,Australia,8,409,0.925,74.0
+Tanner,Terlinden,Male,84,Nuclear Power Engineer,Manufacturing,Mass Customer,No,14,3106,VIC,Australia,11,409,0.925,24.0
+Hilliard,Dullard,Male,65,Civil Engineer,Manufacturing,Mass Customer,No,17,2163,NSW,Australia,8,409,0.925,65.0
+Justinn,Haruard,Female,48,Health Coach IV,Health,High Net Worth,No,11,2035,NSW,Australia,12,414,0.924375,61.0
+Wyn,Meach,Male,37,Payment Adjustment Coordinator,Manufacturing,Mass Customer,No,9,2765,NSW,Australia,9,415,0.9218749999999999,81.0
+Art,Shardlow,Male,57,Data Coordiator,Argiculture,Mass Customer,Yes,15,4350,QLD,Australia,2,415,0.9218749999999999,56.0
+Dennis,Varnham,Male,57,Assistant Media Planner,Entertainment,Affluent Customer,No,17,3350,VIC,Australia,3,415,0.9218749999999999,67.0
+Freddi,Litherborough,Female,46,Product Engineer,Financial Services,Mass Customer,No,7,2460,NSW,Australia,3,418,0.918,31.0
+Salomon,Perkins,Male,76,Engineer IV,Financial Services,Affluent Customer,Yes,1,2009,NSW,Australia,10,419,0.91640625,22.0
+Sherill,Perkins,Female,33,Information Systems Manager,Financial Services,Mass Customer,No,3,2880,NSW,Australia,1,420,0.91375,28.0
+Queenie,Learie,Female,90,Safety Technician I,Property,Mass Customer,No,12,2073,NSW,Australia,11,420,0.91375,72.0
+Etan,Prinett,Male,97,Operator,Argiculture,Mass Customer,Yes,10,2250,NSW,Australia,8,420,0.91375,50.0
+Donaugh,Benedict,Male,3,Systems Administrator III,Property,Mass Customer,No,12,2233,NSW,Australia,9,420,0.91375,28.0
+Harwell,Kleinstein,Male,87,Sales Representative,Retail,Affluent Customer,No,15,3818,VIC,Australia,5,420,0.91375,26.0
+Cheston,Hritzko,Male,70,Software Engineer III,Manufacturing,Mass Customer,Yes,19,2127,NSW,Australia,9,420,0.91375,74.0
+Suzy,Trounson,Female,13,Senior Financial Analyst,Financial Services,Mass Customer,Yes,20,4152,QLD,Australia,9,420,0.91375,72.0
+Jobie,Runacres,Female,96,Developer IV,Property,Mass Customer,Yes,18,2528,NSW,Australia,7,427,0.9125,45.0
+Guenna,Filisov,Female,52,Chemical Engineer,Manufacturing,High Net Worth,No,13,2154,NSW,Australia,9,427,0.9125,51.0
+Opal,Cleare,Female,6,Database Administrator II,Property,Affluent Customer,Yes,20,2066,NSW,Australia,9,429,0.91,42.0
+Ottilie,Wanless,Female,51,Environmental Specialist,Financial Services,Affluent Customer,No,8,2720,NSW,Australia,4,430,0.9095,79.0
+Kipper,Circuit,Male,23,Research Assistant IV,Argiculture,Mass Customer,Yes,4,2140,NSW,Australia,8,430,0.9095,45.0
+Marilin,Frome,Female,58,Account Executive,IT,Mass Customer,Yes,17,2219,NSW,Australia,9,430,0.9095,44.0
+Arel,Abramovitz,Male,72,Nurse Practicioner,Health,Mass Customer,No,16,4650,QLD,Australia,4,433,0.90625,62.0
+Kit,Easdon,Male,61,Director of Sales,Property,Affluent Customer,No,12,3156,VIC,Australia,8,433,0.90625,41.0
+Gregg,Aimeric,Male,52,Internal Auditor,IT,Mass Customer,No,7,3753,VIC,Australia,5,433,0.90625,28.0
+Skipp,Swales,Male,15,Community Outreach Specialist,Entertainment,High Net Worth,Yes,22,3029,VIC,Australia,7,436,0.903125,46.0
+Frederich,Glantz,Male,37,Nuclear Power Engineer,Manufacturing,High Net Worth,Yes,10,2762,NSW,Australia,8,436,0.903125,22.0
+Rodolph,Denniss,Male,28,Geologist III,Property,Affluent Customer,Yes,7,3356,VIC,Australia,2,436,0.903125,45.0
+Craggie,Dering,Male,47,Actuary,Financial Services,Mass Customer,No,7,2125,NSW,Australia,10,436,0.903125,67.0
+Johna,Bunker,Female,93,Tax Accountant,IT,Mass Customer,Yes,14,3065,VIC,Australia,6,436,0.903125,30.0
+Giralda,MacPeake,Female,59,Librarian,Entertainment,High Net Worth,Yes,14,2705,NSW,Australia,1,441,0.901,79.0
+Rodney,Trethewey,Male,16,Software Consultant,Financial Services,Affluent Customer,No,15,3030,VIC,Australia,8,441,0.901,23.0
+Theresina,Trethewey,Female,30,General Manager,Argiculture,Mass Customer,Yes,14,2650,NSW,Australia,2,441,0.901,33.0
+Gleda,Howerd,Female,59,Senior Developer,IT,Mass Customer,No,6,2440,NSW,Australia,2,444,0.9,56.0
+Melany,Ladewig,Female,76,Research Associate,Financial Services,Mass Customer,Yes,10,4130,QLD,Australia,7,444,0.9,48.0
+Claudell,Rounsefell,Male,67,VP Sales,Financial Services,Affluent Customer,No,8,4217,QLD,Australia,5,444,0.9,26.0
+Garwin,Nurden,Male,54,Programmer I,Property,High Net Worth,Yes,5,3142,VIC,Australia,11,444,0.9,62.0
+Bunny,Leebetter,Female,83,Quality Engineer,Manufacturing,High Net Worth,Yes,8,4301,QLD,Australia,4,444,0.9,54.0
+Matias,Melloi,Male,61,Legal Assistant,Retail,Affluent Customer,No,11,2155,NSW,Australia,10,444,0.9,43.0
+Sada,Dowyer,Female,47,Human Resources Manager,Financial Services,High Net Worth,Yes,3,2090,NSW,Australia,10,450,0.8999999999999999,21.0
+Anet,Roseman,Female,84,Programmer Analyst III,Financial Services,Mass Customer,No,9,3814,VIC,Australia,4,450,0.8999999999999999,23.0
+Katie,Warhurst,Female,0,Help Desk Operator,Retail,High Net Worth,Yes,14,3064,VIC,Australia,5,450,0.8999999999999999,28.0
+Celia,Bryden,Female,12,Chemical Engineer,Manufacturing,High Net Worth,No,21,2114,NSW,Australia,9,450,0.8999999999999999,77.0
+Stearne,Trolley,Male,42,Automation Specialist IV,Financial Services,High Net Worth,No,14,2137,NSW,Australia,11,450,0.8999999999999999,38.0
+Tristam,Larose,Male,70,VP Accounting,Financial Services,Mass Customer,No,17,2137,NSW,Australia,11,455,0.8925,35.0
+Laurena,Larose,Female,21,VP Sales,Financial Services,High Net Worth,No,10,3810,VIC,Australia,6,455,0.8925,58.0
+Heloise,Fairpool,Female,17,Information Systems Manager,Manufacturing,High Net Worth,No,17,4680,QLD,Australia,3,455,0.8925,43.0
+Dory,Malpass,Female,19,Recruiter,Manufacturing,Affluent Customer,Yes,13,4103,QLD,Australia,8,455,0.8925,47.0
+Marcellina,Baynton,Female,60,Software Engineer III,Financial Services,Mass Customer,No,16,3141,VIC,Australia,10,455,0.8925,73.0
+Gregorius,Leal,Male,7,Operator,Retail,Affluent Customer,Yes,21,2033,NSW,Australia,12,455,0.8925,69.0
+Deana,Canton,Female,67,Human Resources Assistant II,Property,Mass Customer,Yes,14,4301,QLD,Australia,3,455,0.8925,45.0
+Kori,Sparsholt,Female,59,Office Assistant II,Manufacturing,Mass Customer,Yes,19,2171,NSW,Australia,9,455,0.8925,80.0
+Lucky,Klainman,Female,24,Chief Design Engineer,Retail,Mass Customer,No,8,3758,VIC,Australia,4,455,0.8925,72.0
+Erasmus,Olenchenko,Male,56,Software Test Engineer IV,Property,Mass Customer,Yes,5,2484,NSW,Australia,7,464,0.8906249999999999,55.0
+Carita,Sand,Female,25,Quality Engineer,Retail,Mass Customer,No,16,2154,NSW,Australia,11,464,0.8906249999999999,43.0
+Lynnett,Tipper,Female,22,Social Worker,Health,High Net Worth,Yes,2,3109,VIC,Australia,10,466,0.89,26.0
+Thorn,Stigers,Male,42,Business Systems Development Analyst,Financial Services,Mass Customer,No,19,4115,QLD,Australia,8,466,0.89,48.0
+Lela,Billing,Female,38,Programmer Analyst III,Financial Services,Mass Customer,Yes,18,2571,NSW,Australia,7,468,0.8898437499999999,49.0
+Norah,Mapis,Female,75,Assistant Manager,Argiculture,Mass Customer,No,10,2263,NSW,Australia,9,468,0.8898437499999999,19.0
+Moina,Rosenbaum,Female,50,Graphic Designer,IT,Mass Customer,No,14,3109,VIC,Australia,10,468,0.8898437499999999,18.0
+Ceciley,Harg,Female,50,Nurse Practicioner,Retail,Mass Customer,Yes,4,4172,QLD,Australia,7,471,0.8875,29.0
+Torry,de la Valette Parisot,Male,95,VP Marketing,Telecommunications,Mass Customer,Yes,18,3168,VIC,Australia,9,471,0.8875,53.0
+Sigismund,Sedger,Male,9,Accountant II,Manufacturing,Affluent Customer,No,7,2155,NSW,Australia,10,473,0.884,20.0
+Irvine,Headon,Male,99,Geologist III,IT,Affluent Customer,Yes,20,2322,NSW,Australia,5,473,0.884,64.0
+Laurie,Headon,Male,31,Assistant Media Planner,Entertainment,Mass Customer,Yes,15,2210,NSW,Australia,10,475,0.8818749999999999,40.0
+Tomkin,Bernlin,Male,7,Food Chemist,Health,Affluent Customer,Yes,9,2480,NSW,Australia,3,475,0.8818749999999999,18.0
+Genni,Fanstone,Female,25,Administrative Assistant II,Entertainment,Mass Customer,No,16,3149,VIC,Australia,10,475,0.8818749999999999,47.0
+Blondie,Fanstone,Female,43,Actuary,Financial Services,High Net Worth,No,11,2565,NSW,Australia,8,478,0.88,24.0
+Aloysius,Killingsworth,Male,89,VP Quality Control,Manufacturing,Mass Customer,No,12,2145,NSW,Australia,9,478,0.88,63.0
+Carola,Philler,Female,73,Dental Hygienist,Health,High Net Worth,No,15,2145,NSW,Australia,7,478,0.88,69.0
+Fitzgerald,Hellikes,Male,25,Media Manager IV,Health,Mass Customer,Yes,10,3040,VIC,Australia,7,478,0.88,40.0
+Ingmar,Okenden,Male,97,Compensation Analyst,Financial Services,Mass Customer,Yes,8,3216,VIC,Australia,2,478,0.88,61.0
+Tina,Dunstan,Female,13,Account Representative IV,Retail,Affluent Customer,No,13,2171,NSW,Australia,7,483,0.8765625,81.0
+Huberto,Mollatt,Male,82,Programmer IV,IT,Mass Customer,Yes,14,2770,NSW,Australia,7,483,0.8765625,58.0
+Georgi,Mollatt,Male,29,Assistant Manager,Manufacturing,High Net Worth,No,11,3215,VIC,Australia,4,485,0.8755,50.0
+Adolpho,Bellerby,Male,46,VP Sales,Financial Services,High Net Worth,Yes,13,4305,QLD,Australia,4,486,0.875,75.0
+Kelsey,Hatt,Female,69,Senior Sales Associate,Financial Services,High Net Worth,No,8,3930,VIC,Australia,6,486,0.875,54.0
+Lucien,Hatt,Male,83,Automation Specialist IV,Financial Services,High Net Worth,Yes,19,4305,QLD,Australia,3,486,0.875,53.0
+Ariel,McCloid,Male,4,Human Resources Manager,Health,High Net Worth,Yes,6,3630,VIC,Australia,1,486,0.875,26.0
+Bevvy,Openshaw,Female,68,Staff Scientist,Financial Services,Affluent Customer,Yes,10,2318,NSW,Australia,3,486,0.875,45.0
+Alexina,Mabley,Female,72,Web Designer IV,Manufacturing,Mass Customer,Yes,10,2573,NSW,Australia,9,486,0.875,44.0
+Dawn,Pyffe,Female,56,Media Manager III,Retail,Mass Customer,No,11,3155,VIC,Australia,8,492,0.8712499999999999,55.0
+Claudette,Renackowna,Female,55,Administrative Officer,Manufacturing,Mass Customer,No,2,2148,NSW,Australia,8,492,0.8712499999999999,24.0
+Elianora,Poolton,Female,15,Programmer II,IT,Mass Customer,Yes,21,3134,VIC,Australia,9,494,0.867,76.0
+Park,Poolton,Male,39,Nurse Practicioner,IT,Affluent Customer,No,14,4350,QLD,Australia,7,495,0.86328125,42.0
+Anthony,Lindstrom,Male,86,Geologist IV,Financial Services,Affluent Customer,Yes,10,2205,NSW,Australia,10,495,0.86328125,22.0
+Liane,Poizer,Female,59,Analyst Programmer,Property,High Net Worth,No,13,2076,NSW,Australia,11,495,0.86328125,68.0
+Romonda,Hallt,Female,69,Operator,Entertainment,Affluent Customer,No,15,2480,NSW,Australia,4,498,0.8606250000000001,60.0
+Sula,Thomann,Female,56,Assistant Manager,Financial Services,Mass Customer,No,6,2160,NSW,Australia,9,498,0.8606250000000001,31.0
+Renell,Earley,Female,5,Compensation Analyst,Financial Services,Mass Customer,Yes,11,4171,QLD,Australia,5,500,0.86,65.0
+Cliff,Philipsson,Male,82,Structural Analysis Engineer,Argiculture,Mass Customer,No,16,3149,VIC,Australia,10,500,0.86,53.0
+Clevey,Aisthorpe,Male,27,Software Consultant,Argiculture,Mass Customer,Yes,8,2009,NSW,Australia,9,502,0.8584999999999999,43.0
+Cariotta,Aisthorpe,Female,10,Assistant Media Planner,Entertainment,Affluent Customer,Yes,17,2527,NSW,Australia,7,502,0.8584999999999999,45.0
+George,Jose,Male,68,Payment Adjustment Coordinator,Retail,High Net Worth,Yes,20,4680,QLD,Australia,4,504,0.8500000000000001,59.0
+Kissiah,Foat,Female,30,Graphic Designer,Health,Mass Customer,Yes,19,2281,NSW,Australia,9,504,0.8500000000000001,44.0
+Milty,Brauninger,Male,13,Payment Adjustment Coordinator,Entertainment,High Net Worth,No,11,2640,NSW,Australia,7,504,0.8500000000000001,75.0
+Killian,Nettles,Male,44,Marketing Assistant,Health,Affluent Customer,No,4,3803,VIC,Australia,7,507,0.85,39.0
+Fredia,Favelle,Female,94,Teacher,Manufacturing,Mass Customer,Yes,19,4014,QLD,Australia,8,507,0.85,45.0
+Katleen,Arnoult,Female,6,VP Product Management,Manufacturing,Mass Customer,Yes,13,2066,NSW,Australia,9,507,0.85,43.0
+Gaultiero,Fibbens,Male,41,Help Desk Technician,Telecommunications,Affluent Customer,No,9,2035,NSW,Australia,11,507,0.85,40.0
+Inglebert,Aspinal,Male,4,Financial Analyst,Financial Services,Mass Customer,No,11,2176,NSW,Australia,8,507,0.85,46.0
+Jammal,Devenny,Male,57,Marketing Manager,Retail,High Net Worth,No,12,3152,VIC,Australia,9,507,0.85,21.0
+Adriane,Richardson,Female,81,Data Coordiator,Manufacturing,High Net Worth,No,9,3070,VIC,Australia,8,513,0.8415,44.0
+Jodi,Lermit,Female,94,Chief Design Engineer,Health,Mass Customer,Yes,10,4021,QLD,Australia,2,513,0.8415,66.0
+Emelia,Ackwood,Female,72,Senior Cost Accountant,Financial Services,Mass Customer,Yes,10,4183,QLD,Australia,9,515,0.839375,31.0
+Andee,Huke,Female,91,Environmental Tech,Manufacturing,Mass Customer,No,9,3858,VIC,Australia,2,515,0.839375,49.0
+Isa,Fominov,Male,75,Physical Therapy Assistant,Health,Mass Customer,Yes,5,2010,NSW,Australia,9,515,0.839375,19.0
+Zabrina,Margram,Female,87,Marketing Manager,Manufacturing,High Net Worth,Yes,11,4053,QLD,Australia,8,515,0.839375,56.0
+Maddalena,Angood,Female,79,Junior Executive,Manufacturing,Affluent Customer,No,12,2320,NSW,Australia,4,515,0.839375,20.0
+Sofie,Worsfold,Female,87,Environmental Tech,Retail,Mass Customer,Yes,9,4125,QLD,Australia,6,520,0.8375,65.0
+Elmira,Vasilyev,Female,33,Senior Quality Engineer,Manufacturing,High Net Worth,No,12,2007,NSW,Australia,9,520,0.8375,68.0
+Free,Rowland,Male,42,Accountant III,Financial Services,Mass Customer,Yes,12,3796,VIC,Australia,8,520,0.8375,64.0
+Worthington,Cohane,Male,60,Chief Design Engineer,Entertainment,High Net Worth,No,2,2000,NSW,Australia,12,520,0.8375,29.0
+Bailey,Bereford,Male,44,Senior Sales Associate,Argiculture,Affluent Customer,Yes,11,2444,NSW,Australia,6,524,0.83671875,69.0
+Perry,Whitehurst,Male,79,Structural Engineer,Manufacturing,High Net Worth,Yes,8,3155,VIC,Australia,7,524,0.83671875,40.0
+Antony,Tuma,Male,11,Environmental Tech,Telecommunications,High Net Worth,Yes,13,3078,VIC,Australia,10,526,0.833,66.0
+Corene,Hallgate,Female,26,Senior Cost Accountant,Financial Services,Mass Customer,Yes,14,3103,VIC,Australia,12,526,0.833,55.0
+Nico,Chadwick,Male,97,Research Assistant IV,Financial Services,Affluent Customer,No,13,3190,VIC,Australia,8,526,0.833,67.0
+Joline,Skipperbottom,Female,59,Desktop Support Technician,Health,High Net Worth,No,9,2161,NSW,Australia,9,529,0.83,48.0
+Ivy,Farr,Female,56,Office Assistant IV,IT,High Net Worth,No,19,2120,NSW,Australia,11,530,0.8287500000000001,47.0
+Dallas,Lavalde,Female,18,Product Engineer,Financial Services,Mass Customer,No,12,2323,NSW,Australia,4,530,0.8287500000000001,21.0
+Amabel,Lavalde,Female,71,Chief Design Engineer,Financial Services,Mass Customer,Yes,9,2144,NSW,Australia,6,530,0.8287500000000001,38.0
+Hilario,McCulloch,Male,61,Physical Therapy Assistant,Retail,Mass Customer,No,8,3051,VIC,Australia,8,530,0.8287500000000001,34.0
+Jim,Haddrell,Male,55,Associate Professor,Financial Services,Mass Customer,No,9,2358,NSW,Australia,3,530,0.8287500000000001,65.0
+Jacobo,Mucklow,Male,62,Computer Systems Analyst I,Financial Services,High Net Worth,Yes,22,3122,VIC,Australia,8,530,0.8287500000000001,67.0
+Gretel,Paschke,Female,10,Editor,Financial Services,Mass Customer,Yes,17,4074,QLD,Australia,7,536,0.8250000000000001,64.0
+Jethro,Mertel,Male,16,Software Consultant,Argiculture,Mass Customer,Yes,15,2262,NSW,Australia,6,536,0.8250000000000001,41.0
+Dwain,Hatch,Male,62,Marketing Assistant,Health,Affluent Customer,No,15,3028,VIC,Australia,8,536,0.8250000000000001,25.0
+Lucretia,D'Agostini,Female,41,Database Administrator III,Manufacturing,High Net Worth,No,15,3185,VIC,Australia,7,536,0.8250000000000001,41.0
+Claude,Bowstead,Female,37,Accounting Assistant III,Manufacturing,Mass Customer,No,7,2217,NSW,Australia,12,536,0.8250000000000001,22.0
+Donn,MacGregor,Male,80,Civil Engineer,Manufacturing,High Net Worth,No,5,2046,NSW,Australia,10,536,0.8250000000000001,55.0
+Laurel,Devennie,Female,78,VP Product Management,Manufacturing,Affluent Customer,No,13,4352,QLD,Australia,5,536,0.8250000000000001,43.0
+Elvira,Darthe,Female,10,Accounting Assistant I,Financial Services,Affluent Customer,No,16,2168,NSW,Australia,9,536,0.8250000000000001,45.0
+Angie,Tansley,Male,68,VP Sales,Manufacturing,Mass Customer,No,8,2444,NSW,Australia,7,544,0.8245,69.0
+Terrence,Dalligan,Male,60,Chemical Engineer,Manufacturing,High Net Worth,Yes,2,3200,VIC,Australia,6,544,0.8245,22.0
+Katy,Crooke,Female,0,Food Chemist,Health,Mass Customer,No,13,2111,NSW,Australia,12,546,0.8234374999999999,43.0
+Sammy,Borsi,Female,99,Accountant III,Financial Services,Mass Customer,No,5,2289,NSW,Australia,7,546,0.8234374999999999,48.0
+Morganica,Ainsbury,Female,37,Senior Editor,Entertainment,High Net Worth,Yes,9,2151,NSW,Australia,10,546,0.8234374999999999,47.0
+Nils,Champion,Male,69,Programmer III,Retail,Affluent Customer,No,13,2750,NSW,Australia,9,549,0.82,36.0
+Beverlee,Querree,Female,42,Marketing Manager,Financial Services,High Net Worth,Yes,12,2075,NSW,Australia,12,549,0.82,29.0
+Cami,Eitter,Female,34,Professor,Manufacturing,High Net Worth,Yes,11,3081,VIC,Australia,9,551,0.818125,41.0
+Reiko,Degenhardt,Female,83,Financial Analyst,Financial Services,High Net Worth,Yes,5,4280,QLD,Australia,6,552,0.816,44.0
+Cord,Dunsmore,Male,12,Internal Auditor,Manufacturing,Mass Customer,Yes,13,4301,QLD,Australia,3,552,0.816,21.0
+Gabey,Kennicott,Female,55,Developer I,Financial Services,Affluent Customer,No,17,2322,NSW,Australia,6,552,0.816,62.0
+Jacqui,Devey,Female,79,Analyst Programmer,Financial Services,High Net Worth,Yes,13,2261,NSW,Australia,8,555,0.8125,24.0
+Byrom,Ramas,Male,23,Help Desk Technician,Manufacturing,High Net Worth,No,12,2528,NSW,Australia,7,555,0.8125,26.0
+Worthington,Ahmed,Male,79,Senior Cost Accountant,Financial Services,High Net Worth,No,13,3335,VIC,Australia,3,555,0.8125,48.0
+Chico,Dye,Male,46,Speech Pathologist,Manufacturing,High Net Worth,No,13,2526,NSW,Australia,9,555,0.8125,26.0
+Davidde,Cockroft,Male,70,Geological Engineer,Manufacturing,High Net Worth,No,8,2158,NSW,Australia,12,555,0.8125,73.0
+Charlie,Dmych,Male,60,Account Coordinator,Manufacturing,High Net Worth,No,13,2263,NSW,Australia,6,555,0.8125,70.0
+Donn,Chaney,Male,15,Research Assistant II,Property,Mass Customer,No,13,4701,QLD,Australia,3,561,0.81015625,69.0
+Kamila,Parsonage,Female,80,Nurse Practicioner,Property,Mass Customer,No,5,4131,QLD,Australia,8,562,0.81,66.0
+Barth,Sapshed,Male,4,Executive Secretary,Financial Services,Mass Customer,Yes,13,4520,QLD,Australia,10,563,0.8075,26.0
+Padriac,Collacombe,Male,67,Software Consultant,Health,Affluent Customer,No,13,2090,NSW,Australia,10,563,0.8075,53.0
+Olive,Mozzi,Female,87,Account Representative IV,Retail,Affluent Customer,Yes,20,2567,NSW,Australia,9,563,0.8075,65.0
+Benedict,Rosas,Male,73,Actuary,Financial Services,High Net Worth,Yes,15,2142,NSW,Australia,6,563,0.8075,64.0
+Virginia,De Antoni,Female,17,Executive Secretary,Telecommunications,High Net Worth,Yes,12,2030,NSW,Australia,10,563,0.8075,56.0
+Nicolas,O'Donnell,Male,40,Internal Auditor,Health,Mass Customer,Yes,14,3177,VIC,Australia,7,568,0.8,33.0
+Oswald,MacCarlich,Male,81,Assistant Media Planner,Entertainment,Mass Customer,No,14,4717,QLD,Australia,1,568,0.8,28.0
+Ailyn,Howgate,Female,66,Electrical Engineer,Manufacturing,Mass Customer,Yes,2,4213,QLD,Australia,7,568,0.8,18.0
+Karol,Salthouse,Female,53,Research Assistant III,Financial Services,Mass Customer,Yes,18,2570,NSW,Australia,8,568,0.8,51.0
+Esdras,Birchett,Male,81,Assistant Media Planner,Entertainment,Mass Customer,Yes,21,2258,NSW,Australia,9,568,0.8,69.0
+Wilfrid,Gertray,Male,1,Accounting Assistant I,Financial Services,Mass Customer,No,16,2766,NSW,Australia,8,568,0.8,77.0
+Charmain,Styles,Female,49,Programmer Analyst I,Property,High Net Worth,Yes,18,3029,VIC,Australia,7,574,0.7989999999999999,55.0
+Harlene,Nono,Male,69,Human Resources Manager,IT,Mass Customer,No,12,2170,NSW,Australia,7,575,0.796875,38.0
+Kirsteni,Gritskov,Female,66,Information Systems Manager,Financial Services,Mass Customer,No,4,2560,NSW,Australia,7,575,0.796875,22.0
+Bobby,Summersby,Male,90,Sales Associate,Financial Services,Affluent Customer,No,7,3350,VIC,Australia,2,575,0.796875,76.0
+Shepherd,Dutchburn,Male,33,Senior Sales Associate,Financial Services,High Net Worth,Yes,9,2160,NSW,Australia,9,575,0.796875,43.0
+Berenice,Kaesmakers,Female,64,Sales Representative,Retail,Mass Customer,No,11,2145,NSW,Australia,9,575,0.796875,25.0
+Jesse,Crosio,Male,75,Data Coordiator,Manufacturing,Mass Customer,Yes,13,3133,VIC,Australia,8,575,0.796875,26.0
+Cordi,Thornton,Female,47,Structural Engineer,Telecommunications,Mass Customer,No,11,2028,NSW,Australia,10,575,0.796875,47.0
+Debbie,Tillman,Female,3,Account Coordinator,Manufacturing,High Net Worth,Yes,13,4551,QLD,Australia,8,582,0.79,30.0
+Judie,Pirkis,Female,2,Recruiter,IT,Affluent Customer,Yes,4,2111,NSW,Australia,11,583,0.7875,24.0
+Flin,Yoskowitz,Male,9,Registered Nurse,Health,Mass Customer,Yes,11,2574,NSW,Australia,7,583,0.7875,24.0
+Noel,Sturch,Female,26,Environmental Specialist,Health,Mass Customer,No,10,3585,VIC,Australia,1,583,0.7875,68.0
+Letizia,Poore,Female,27,Web Developer II,Manufacturing,Affluent Customer,No,15,3677,VIC,Australia,3,583,0.7875,81.0
+Raynard,Poore,Male,32,Statistician III,Health,Affluent Customer,No,14,4132,QLD,Australia,6,587,0.78625,24.0
+Kiley,Grunder,Male,95,Cost Accountant,Financial Services,Affluent Customer,Yes,1,4006,QLD,Australia,8,587,0.78625,26.0
+Ethelred,Sissel,Male,83,Programmer Analyst IV,Health,High Net Worth,No,18,2539,NSW,Australia,8,587,0.78625,45.0
+Dena,Pabst,Female,39,Account Executive,Manufacturing,High Net Worth,Yes,17,3037,VIC,Australia,7,590,0.7835937499999999,33.0
+Wyndham,Woolford,Male,1,Engineer IV,Manufacturing,Mass Customer,No,10,3977,VIC,Australia,6,591,0.782,40.0
+Rochette,Haddacks,Female,44,Tax Accountant,Retail,Affluent Customer,Yes,13,3020,VIC,Australia,8,591,0.782,24.0
+Jamal,Dudgeon,Male,83,Mechanical Systems Engineer,Financial Services,Mass Customer,No,7,3029,VIC,Australia,5,591,0.782,55.0
+Levin,Coxen,Male,13,Accountant I,Property,Mass Customer,No,20,2753,NSW,Australia,8,594,0.78125,64.0
+Marinna,Kauschke,Female,21,Sales Associate,Financial Services,Affluent Customer,Yes,8,3174,VIC,Australia,3,595,0.775625,47.0
+Kyle,Michie,Female,6,Nurse Practicioner,Manufacturing,Mass Customer,Yes,10,3032,VIC,Australia,8,595,0.775625,61.0
+Lanie,Cobbold,Male,57,Senior Sales Associate,Argiculture,Mass Customer,Yes,9,2323,NSW,Australia,5,595,0.775625,41.0
+Gilbert,O'Fallone,Male,29,Assistant Media Planner,Entertainment,High Net Worth,No,1,2126,NSW,Australia,11,595,0.775625,25.0
+Gerianne,Kaysor,Female,15,Project Manager,IT,Affluent Customer,No,5,2121,NSW,Australia,11,599,0.775,31.0
+Esther,McOnie,Female,59,Legal Assistant,Financial Services,Mass Customer,No,14,2096,NSW,Australia,12,599,0.775,81.0
+Chaim,Kingdon,Male,63,Compensation Analyst,Financial Services,Affluent Customer,Yes,15,2097,NSW,Australia,9,599,0.775,24.0
+Anson,Dearnaly,Male,68,Data Coordiator,Health,Affluent Customer,Yes,11,2103,NSW,Australia,11,602,0.7735,23.0
+Caitrin,Critten,Female,45,Director of Sales,Manufacturing,Mass Customer,Yes,10,4113,QLD,Australia,7,603,0.7703125,47.0
+Garreth,Minett,Male,93,Physical Therapy Assistant,Financial Services,Affluent Customer,Yes,10,3163,VIC,Australia,7,604,0.765,59.0
+Rozamond,Sommer,Female,27,Operator,IT,Affluent Customer,Yes,12,3129,VIC,Australia,10,604,0.765,53.0
+Annabell,Downer,Female,33,Budget/Accounting Analyst II,Health,Affluent Customer,No,20,2763,NSW,Australia,9,606,0.7649999999999999,64.0
+Maximilian,Geffen,Male,96,Automation Specialist III,Manufacturing,Mass Customer,Yes,20,2750,NSW,Australia,8,606,0.7649999999999999,65.0
+Ajay,Worham,Female,80,Computer Systems Analyst I,Manufacturing,Mass Customer,Yes,12,2800,NSW,Australia,6,606,0.7649999999999999,40.0
+Jamison,Cashin,Male,70,VP Product Management,Health,Mass Customer,Yes,5,2477,NSW,Australia,8,609,0.7625,50.0
+Dorian,Emery,Female,94,Professor,Manufacturing,Mass Customer,Yes,9,2168,NSW,Australia,8,609,0.7625,21.0
+Nicol,Swinford,Male,65,VP Marketing,Property,High Net Worth,No,16,4157,QLD,Australia,7,609,0.7625,43.0
+Agna,Cowpe,Female,88,Staff Accountant III,Property,Mass Customer,Yes,7,4114,QLD,Australia,3,612,0.7570312499999999,51.0
+Nev,Prosh,Male,29,Environmental Tech,Health,Affluent Customer,Yes,17,2148,NSW,Australia,8,612,0.7570312499999999,70.0
+Lucius,Hatchell,Male,37,Media Manager II,Retail,Mass Customer,Yes,14,3782,VIC,Australia,8,612,0.7570312499999999,69.0
+Francisca,Pottage,Female,63,Software Engineer II,IT,Mass Customer,No,8,2177,NSW,Australia,9,615,0.7565,63.0
+Farlie,Brookz,Male,62,Administrative Assistant I,Health,Mass Customer,Yes,6,2070,NSW,Australia,12,615,0.7565,56.0
+Mariette,Brookz,Female,47,Programmer II,Property,Affluent Customer,Yes,17,2049,NSW,Australia,11,617,0.7543749999999999,64.0
+Beverlee,Ungerechts,Female,49,Civil Engineer,Manufacturing,Mass Customer,No,8,4020,QLD,Australia,7,617,0.7543749999999999,46.0
+Nanni,Girodias,Female,61,Human Resources Manager,Retail,High Net Worth,No,16,2161,NSW,Australia,9,617,0.7543749999999999,61.0
+Delcina,Hursey,Female,22,Geologist I,Financial Services,Mass Customer,Yes,7,4132,QLD,Australia,4,620,0.75,51.0
+Lek,Pimblett,Male,88,Product Engineer,Financial Services,Mass Customer,Yes,6,2460,NSW,Australia,2,620,0.75,64.0
+Kellyann,Adshad,Female,62,Community Outreach Specialist,Health,Mass Customer,Yes,22,2161,NSW,Australia,9,620,0.75,80.0
+Ewell,Paulusch,Male,31,Engineer I,Manufacturing,Mass Customer,Yes,8,4032,QLD,Australia,7,620,0.75,22.0
+Madison,Lars,Male,11,Health Coach III,Health,Mass Customer,No,19,4500,QLD,Australia,9,620,0.75,53.0
+Ardis,Taree,Female,97,Chemical Engineer,Manufacturing,Affluent Customer,Yes,5,4128,QLD,Australia,9,625,0.748,60.0
+Wheeler,Godsil,Male,51,Geologist IV,Manufacturing,Affluent Customer,Yes,6,2147,NSW,Australia,9,626,0.74375,26.0
+Marissa,O'Scandall,Female,17,Speech Pathologist,Manufacturing,Affluent Customer,Yes,7,3199,VIC,Australia,7,626,0.74375,47.0
+Terrel,Keynd,Male,30,Junior Executive,Manufacturing,Mass Customer,No,9,4221,QLD,Australia,7,626,0.74375,59.0
+Augie,Swallwell,Male,42,Physical Therapy Assistant,Property,Affluent Customer,Yes,13,2400,NSW,Australia,2,626,0.74375,80.0
+Dillon,Bannister,Male,7,Tax Accountant,Financial Services,Mass Customer,No,11,2062,NSW,Australia,9,626,0.74375,74.0
+Osbourn,Gherardini,Male,43,Structural Engineer,Property,High Net Worth,Yes,16,2782,NSW,Australia,7,626,0.74375,33.0
+Lissa,Gawn,Female,86,Legal Assistant,Health,Mass Customer,Yes,17,4503,QLD,Australia,5,632,0.74,57.0
+Leisha,McConway,Female,3,Payment Adjustment Coordinator,Financial Services,Mass Customer,Yes,13,3175,VIC,Australia,8,632,0.74,44.0
+Kearney,Cuddehy,Male,88,Marketing Assistant,Retail,Mass Customer,No,12,4207,QLD,Australia,6,634,0.7394999999999999,23.0
+Shellysheldon,Bichard,Male,96,Desktop Support Technician,Financial Services,Mass Customer,Yes,16,4503,QLD,Australia,5,634,0.7394999999999999,66.0
+Reinhard,Oscroft,Male,23,Pharmacist,Health,High Net Worth,No,18,3690,VIC,Australia,1,634,0.7394999999999999,70.0
+Menard,Venmore,Male,97,Assistant Professor,Retail,High Net Worth,No,8,2197,NSW,Australia,10,637,0.7374999999999999,42.0
+Andree,Breeds,Female,31,Senior Editor,Financial Services,Affluent Customer,Yes,11,3152,VIC,Australia,6,637,0.7374999999999999,65.0
+Kata,Harrop,Female,70,Software Test Engineer I,Retail,Affluent Customer,Yes,13,2196,NSW,Australia,10,637,0.7374999999999999,70.0
+Pierrette,Gummie,Female,18,Statistician II,Retail,Affluent Customer,No,14,3143,VIC,Australia,8,637,0.7374999999999999,53.0
+Nady,Withinshaw,Female,96,Database Administrator III,IT,High Net Worth,No,8,4000,QLD,Australia,7,641,0.7343749999999999,52.0
+Demott,Mullaly,Male,42,Help Desk Operator,Property,Mass Customer,No,13,2525,NSW,Australia,8,642,0.7331249999999999,37.0
+Wendye,Kleinplatz,Female,48,Executive Secretary,Manufacturing,Affluent Customer,No,14,4132,QLD,Australia,3,643,0.731,24.0
+Irvin,Bevans,Male,82,Payment Adjustment Coordinator,Manufacturing,Mass Customer,No,12,2046,NSW,Australia,11,644,0.73046875,58.0
+Madella,Marquiss,Female,51,VP Marketing,Financial Services,Affluent Customer,No,18,3175,VIC,Australia,8,644,0.73046875,43.0
+Austine,Speedy,Female,38,Software Engineer II,Argiculture,High Net Worth,Yes,14,2558,NSW,Australia,8,646,0.73,80.0
+Wolf,Craft,Male,93,Database Administrator III,Retail,Affluent Customer,Yes,5,2148,NSW,Australia,9,646,0.73,24.0
+Aldin,Newsome,Male,24,Financial Analyst,Financial Services,Mass Customer,No,17,2127,NSW,Australia,9,648,0.725,39.0
+Sindee,Jasik,Female,18,Social Worker,Health,Mass Customer,Yes,15,4030,QLD,Australia,9,648,0.725,77.0
+Truman,Arlett,Male,58,Technical Writer,Manufacturing,High Net Worth,Yes,16,2477,NSW,Australia,5,648,0.725,62.0
+Gordon,Rewan,Male,42,Chief Design Engineer,Financial Services,Mass Customer,No,5,2750,NSW,Australia,8,651,0.7225,32.0
+Israel,Brough,Male,29,Budget/Accounting Analyst I,Financial Services,Mass Customer,Yes,8,2281,NSW,Australia,7,651,0.7225,43.0
+Leticia,Hovenden,Female,98,Mechanical Systems Engineer,Retail,Mass Customer,Yes,1,3178,VIC,Australia,9,653,0.7187500000000001,23.0
+Caritta,Compston,Female,86,Geological Engineer,Manufacturing,Mass Customer,Yes,17,3976,VIC,Australia,5,653,0.7187500000000001,62.0
+Annabelle,Hanwell,Female,11,Professor,Manufacturing,High Net Worth,Yes,15,3083,VIC,Australia,12,655,0.7171875,68.0
+Darryl,Hovee,Female,2,Professor,Financial Services,Mass Customer,Yes,19,2047,NSW,Australia,12,655,0.7171875,76.0
+Orly,Nesbitt,Female,6,Analyst Programmer,Manufacturing,High Net Worth,Yes,14,3163,VIC,Australia,6,657,0.714,35.0
+Margette,Gibard,Female,34,Associate Professor,Manufacturing,Affluent Customer,Yes,9,2011,NSW,Australia,7,658,0.7124999999999999,78.0
+Nicol,Bertot,Female,25,Financial Advisor,Financial Services,Affluent Customer,Yes,18,3060,VIC,Australia,5,658,0.7124999999999999,42.0
+Nobe,Trowsdale,Male,12,Community Outreach Specialist,Financial Services,Mass Customer,No,16,3816,VIC,Australia,3,658,0.7124999999999999,52.0
+Stephen,Tittershill,Male,73,Nurse Practicioner,Financial Services,High Net Worth,No,6,3150,VIC,Australia,11,658,0.7124999999999999,28.0
+Giselbert,Pickring,Male,94,Tax Accountant,Manufacturing,Affluent Customer,Yes,20,2766,NSW,Australia,8,662,0.711875,60.0
+Shane,Diss,Female,50,Software Consultant,Financial Services,High Net Worth,Yes,16,3198,VIC,Australia,8,662,0.711875,39.0
+Lisette,Davers,Female,59,Developer III,Health,High Net Worth,No,17,2130,NSW,Australia,11,662,0.711875,79.0
+Chicky,Sinclar,Male,43,Operator,IT,High Net Worth,Yes,0,3222,VIC,Australia,4,662,0.711875,38.0
+Kippar,Whyatt,Male,13,Staff Accountant III,Property,Mass Customer,No,10,2259,NSW,Australia,7,666,0.71,60.0
+Xenia,Maleck,Female,41,VP Product Management,Telecommunications,Mass Customer,No,12,3029,VIC,Australia,7,666,0.71,60.0
+Essie,Withur,Female,42,Director of Sales,Financial Services,High Net Worth,No,19,3444,VIC,Australia,7,668,0.7054999999999999,79.0
+Cecil,Gant,Male,52,Research Assistant III,Financial Services,High Net Worth,Yes,9,2145,NSW,Australia,8,668,0.7054999999999999,44.0
+Lillis,Eshmade,Female,50,Structural Analysis Engineer,Financial Services,Mass Customer,Yes,22,4304,QLD,Australia,2,668,0.7054999999999999,45.0
+Ted,Izacenko,Male,3,Librarian,Entertainment,High Net Worth,No,9,3130,VIC,Australia,10,668,0.7054999999999999,60.0
+Nixie,Shoesmith,Female,45,Junior Executive,Retail,Affluent Customer,No,12,4516,QLD,Australia,6,672,0.7039062500000001,63.0
+Briana,Trill,Female,5,Health Coach III,Health,High Net Worth,No,11,2137,NSW,Australia,11,672,0.7039062500000001,76.0
+Cobbie,Bruyett,Male,20,Associate Professor,Property,Mass Customer,Yes,20,2500,NSW,Australia,8,674,0.703125,64.0
+Wrennie,Dwelly,Female,23,Operator,Manufacturing,Mass Customer,No,18,3020,VIC,Australia,9,674,0.703125,80.0
+Sibylla,Kibble,Female,73,Pharmacist,Health,High Net Worth,No,12,2122,NSW,Australia,9,676,0.70125,57.0
+Kariotta,Naper,Female,8,VP Sales,Health,Mass Customer,No,21,2756,NSW,Australia,10,676,0.70125,68.0
+Wylie,Huntingdon,Male,99,VP Quality Control,Financial Services,Mass Customer,No,15,2763,NSW,Australia,8,676,0.70125,53.0
+Lizbeth,Garvan,Female,36,Structural Analysis Engineer,Health,Mass Customer,No,4,2141,NSW,Australia,9,676,0.70125,23.0
+Averil,Ackery,Male,93,Sales Representative,Retail,Mass Customer,Yes,7,2093,NSW,Australia,12,676,0.70125,49.0
+Myrtie,Ostrich,Female,70,VP Quality Control,Property,Affluent Customer,Yes,9,2251,NSW,Australia,7,676,0.70125,24.0
+Ross,Vidgen,Male,17,VP Sales,Retail,Affluent Customer,No,12,4032,QLD,Australia,9,682,0.7000000000000001,72.0
+Sibby,Skinner,Female,25,Accountant IV,Manufacturing,Mass Customer,Yes,12,4178,QLD,Australia,7,682,0.7000000000000001,39.0
+Selle,Casper,Female,98,Social Worker,Health,Mass Customer,Yes,10,2880,NSW,Australia,1,684,0.7,42.0
+Andrew,Froment,Male,58,Office Assistant IV,Retail,High Net Worth,No,7,3860,VIC,Australia,2,684,0.7,42.0
+Maurizia,Ritmeyer,Female,95,Teacher,Entertainment,Mass Customer,Yes,3,2142,NSW,Australia,6,684,0.7,40.0
+Keenan,Moriarty,Male,67,Actuary,Financial Services,Mass Customer,Yes,2,4075,QLD,Australia,8,684,0.7,25.0
+Davide,Senten,Male,22,Accounting Assistant II,Manufacturing,Mass Customer,No,11,2171,NSW,Australia,9,688,0.697,79.0
+Renie,Fiveash,Female,92,Occupational Therapist,Health,High Net Worth,No,16,4508,QLD,Australia,4,688,0.697,27.0
+Willard,Booton,Male,69,Junior Executive,Health,High Net Worth,Yes,7,2121,NSW,Australia,9,688,0.697,81.0
+Debby,Balmadier,Female,53,Administrative Assistant II,Financial Services,Affluent Customer,Yes,5,3216,VIC,Australia,8,691,0.6906249999999999,28.0
+Rockie,MacKibbon,Male,42,Developer II,Manufacturing,Mass Customer,Yes,13,2298,NSW,Australia,8,691,0.6906249999999999,42.0
+Harvey,Dwelley,Male,70,Help Desk Technician,Financial Services,Affluent Customer,No,18,2077,NSW,Australia,9,691,0.6906249999999999,46.0
+Patrice,Pariss,Male,96,VP Accounting,Financial Services,Mass Customer,No,9,4078,QLD,Australia,5,691,0.6906249999999999,66.0
+Arman,Yakubov,Male,68,VP Quality Control,Property,High Net Worth,Yes,17,2323,NSW,Australia,4,691,0.6906249999999999,42.0
+Gardiner,Gypps,Male,91,VP Product Management,Retail,Mass Customer,Yes,13,2166,NSW,Australia,9,691,0.6906249999999999,29.0
+Cathleen,Le Teve,Female,75,Recruiting Manager,Entertainment,High Net Worth,No,18,4211,QLD,Australia,3,691,0.6906249999999999,69.0
+Thaddus,Joder,Male,31,Web Designer IV,Manufacturing,Mass Customer,No,7,2290,NSW,Australia,8,698,0.69,62.0
+Josepha,Clamp,Female,12,Marketing Manager,Financial Services,High Net Worth,No,12,2069,NSW,Australia,12,698,0.69,58.0
+Jillane,Simion,Female,8,VP Marketing,Manufacturing,High Net Worth,No,7,4209,QLD,Australia,3,700,0.6875,46.0
+Lynnell,Shoesmith,Female,44,Occupational Therapist,Health,High Net Worth,Yes,7,2560,NSW,Australia,8,700,0.6875,39.0
+Mandie,MacAdie,Female,39,Chief Design Engineer,Telecommunications,High Net Worth,No,13,2110,NSW,Australia,11,700,0.6875,45.0
+Ferdinand,Billie,Male,97,Chemical Engineer,Manufacturing,Mass Customer,No,6,2759,NSW,Australia,8,700,0.6875,54.0
+Suzy,Bussens,Female,44,Computer Systems Analyst II,Financial Services,Mass Customer,No,13,4102,QLD,Australia,9,700,0.6875,47.0
+Emeline,Vezey,Female,37,Dental Hygienist,Health,Affluent Customer,Yes,19,3759,VIC,Australia,7,700,0.6875,66.0
+Cissiee,Baylis,Female,99,Cost Accountant,Financial Services,High Net Worth,No,16,2230,NSW,Australia,11,700,0.6875,68.0
+Roldan,Raybould,Male,27,Actuary,Financial Services,Mass Customer,No,11,3158,VIC,Australia,8,700,0.6875,44.0
+Barth,Weare,Male,18,Clinical Specialist,Health,Mass Customer,Yes,8,2541,NSW,Australia,5,708,0.68,73.0
+Alta,Pithcock,Female,64,GIS Technical Architect,Financial Services,Mass Customer,No,2,2141,NSW,Australia,7,708,0.68,20.0
+Marc,Keunemann,Male,57,Dental Hygienist,Health,Affluent Customer,Yes,14,2747,NSW,Australia,8,708,0.68,47.0
+Bertine,Smalles,Female,85,VP Quality Control,Financial Services,Mass Customer,Yes,9,3028,VIC,Australia,8,708,0.68,36.0
+Wilbert,O'Loughnan,Male,14,Paralegal,Financial Services,Mass Customer,Yes,6,4055,QLD,Australia,9,708,0.68,37.0
+Seymour,Fellibrand,Male,28,Structural Analysis Engineer,IT,Affluent Customer,Yes,18,4650,QLD,Australia,2,708,0.68,48.0
+Miran,Runchman,Female,47,Nurse,Retail,Mass Customer,No,17,4304,QLD,Australia,3,708,0.68,45.0
+Dorotea,Fenwick,Female,74,Nurse,Financial Services,High Net Worth,No,12,2016,NSW,Australia,11,715,0.67734375,69.0
+Jenny,Massy,Female,82,Project Manager,Telecommunications,Mass Customer,Yes,10,2470,NSW,Australia,2,715,0.67734375,56.0
+Hyman,Petrolli,Male,8,Senior Sales Associate,IT,Affluent Customer,Yes,4,3782,VIC,Australia,7,715,0.67734375,54.0
+Beatrix,McGivena,Female,26,Assistant Manager,Health,Mass Customer,Yes,9,4879,QLD,Australia,10,715,0.67734375,53.0
+Nalani,Hallad,Female,15,Environmental Specialist,Health,Affluent Customer,Yes,9,3184,VIC,Australia,9,719,0.675,20.0
+Inglebert,Butland,Male,71,Actuary,Financial Services,Mass Customer,Yes,7,2114,NSW,Australia,9,719,0.675,54.0
+Brendis,Pineaux,Male,12,Mechanical Systems Engineer,Manufacturing,Mass Customer,No,5,2560,NSW,Australia,4,719,0.675,42.0
+Jaimie,Lancastle,Male,71,VP Marketing,Manufacturing,Mass Customer,Yes,5,2750,NSW,Australia,8,722,0.6715,47.0
+Glendon,Malham,Male,36,Web Designer I,Manufacturing,Mass Customer,No,17,3030,VIC,Australia,6,722,0.6715,54.0
+Morganica,Bentke,Female,40,Marketing Assistant,IT,Affluent Customer,Yes,21,3067,VIC,Australia,11,724,0.67,43.0
+Calida,Schaben,Female,54,Recruiting Manager,Manufacturing,Mass Customer,Yes,10,2199,NSW,Australia,9,725,0.6693749999999999,51.0
+Hallsy,Voysey,Male,83,Business Systems Development Analyst,Financial Services,Mass Customer,No,16,3437,VIC,Australia,9,725,0.6693749999999999,50.0
+Lanny,Currall,Male,37,Developer IV,Retail,High Net Worth,Yes,9,2209,NSW,Australia,10,725,0.6693749999999999,22.0
+Son,Varney,Male,75,Analog Circuit Design manager,Property,Mass Customer,Yes,10,2480,NSW,Australia,7,725,0.6693749999999999,26.0
+Bartram,Caltun,Male,28,Internal Auditor,Health,Affluent Customer,Yes,12,2121,NSW,Australia,11,725,0.6693749999999999,63.0
+Halette,Borsi,Female,60,Research Nurse,Health,Affluent Customer,Yes,16,2128,NSW,Australia,9,725,0.6693749999999999,58.0
+Killie,Densie,Male,87,Environmental Tech,IT,Mass Customer,Yes,11,2042,NSW,Australia,10,731,0.6640625,23.0
+Mandi,Adamsson,Female,40,Programmer Analyst I,Manufacturing,Mass Customer,Yes,5,4165,QLD,Australia,5,731,0.6640625,28.0
+Kylila,Basezzi,Female,94,Assistant Manager,Health,Mass Customer,Yes,9,4217,QLD,Australia,9,733,0.6625000000000001,75.0
+Yardley,Matten,Male,35,Junior Executive,Financial Services,Mass Customer,No,15,4408,QLD,Australia,2,733,0.6625000000000001,29.0
+Shepperd,Leonards,Male,17,Chemical Engineer,Manufacturing,Mass Customer,Yes,5,2147,NSW,Australia,9,733,0.6625000000000001,39.0
+Hamel,Curzey,Male,11,Structural Engineer,Financial Services,Mass Customer,Yes,9,4000,QLD,Australia,7,733,0.6625000000000001,30.0
+Fancie,Woofendell,Female,68,Research Nurse,Health,Mass Customer,Yes,6,4212,QLD,Australia,7,733,0.6625000000000001,53.0
+Zebulen,Emtage,Male,52,Senior Developer,Health,High Net Worth,Yes,17,4352,QLD,Australia,7,733,0.6625000000000001,56.0
+Micheil,Fleote,Male,48,Civil Engineer,Manufacturing,High Net Worth,No,16,2093,NSW,Australia,9,739,0.66,44.0
+Cecily,Faircley,Female,42,Accountant IV,IT,Affluent Customer,Yes,19,4301,QLD,Australia,1,739,0.66,73.0
+Glory,Chilcott,Female,49,Project Manager,Telecommunications,High Net Worth,No,9,4165,QLD,Australia,5,741,0.65875,80.0
+Sinclair,Wark,Male,68,Financial Analyst,Financial Services,Mass Customer,Yes,11,2134,NSW,Australia,9,741,0.65875,46.0
+Tomaso,Horsley,Male,97,Junior Executive,Financial Services,Mass Customer,Yes,10,3977,VIC,Australia,6,741,0.65875,19.0
+Gilli,Christophers,Female,70,Database Administrator IV,Property,Affluent Customer,Yes,17,4575,QLD,Australia,9,744,0.65625,72.0
+Errick,Burgin,Male,87,Professor,Entertainment,Mass Customer,No,11,2650,NSW,Australia,2,744,0.65625,21.0
+Damian,Renard,Male,43,Software Consultant,Retail,Affluent Customer,No,8,2155,NSW,Australia,10,744,0.65625,43.0
+Agnola,Batterson,Female,86,Physical Therapy Assistant,Financial Services,Mass Customer,No,7,4305,QLD,Australia,3,747,0.6545,40.0
+Riki,Wandtke,Female,25,Librarian,Entertainment,Mass Customer,Yes,5,4115,QLD,Australia,7,748,0.65078125,58.0
+Mikol,Eck,Male,99,VP Marketing,Financial Services,Mass Customer,Yes,21,4130,QLD,Australia,9,748,0.65078125,44.0
+Phyllis,Wibberley,Female,7,Web Designer IV,Retail,Affluent Customer,No,11,2066,NSW,Australia,12,750,0.65,49.0
+Burt,Vasechkin,Male,33,Senior Sales Associate,Retail,Mass Customer,Yes,20,3338,VIC,Australia,2,751,0.648125,70.0
+Adriana,Saundercock,Male,20,Nurse,IT,High Net Worth,Yes,14,3806,VIC,Australia,7,751,0.648125,34.0
+Trudie,Phinnessy,Female,45,Human Resources Manager,Financial Services,Mass Customer,Yes,15,3030,VIC,Australia,9,751,0.648125,60.0
+Frederigo,Cribbott,Male,35,Social Worker,Health,Mass Customer,No,16,2140,NSW,Australia,8,754,0.646,55.0
+Glenda,Eliet,Female,87,Quality Control Specialist,Financial Services,Mass Customer,No,12,3844,VIC,Australia,7,755,0.64,46.0
+Darb,Eliet,Male,80,Food Chemist,Health,Affluent Customer,No,10,4034,QLD,Australia,5,755,0.64,51.0
+Cal,Van den Velde,Male,22,Senior Sales Associate,Financial Services,Affluent Customer,Yes,6,3174,VIC,Australia,6,755,0.64,24.0
+Stephani,Sidsaff,Female,32,Senior Quality Engineer,Financial Services,Mass Customer,Yes,6,2036,NSW,Australia,11,755,0.64,46.0
+Meade,Bampton,Male,69,Health Coach III,Health,High Net Worth,No,17,2090,NSW,Australia,7,755,0.64,38.0
+Flore,Cashen,Female,79,Food Chemist,Health,High Net Worth,No,17,2640,NSW,Australia,4,760,0.6375,42.0
+Leighton,Firbanks,Male,51,Teacher,Retail,Affluent Customer,No,21,4178,QLD,Australia,3,760,0.6375,46.0
+Petr,Westman,Male,5,Nurse Practicioner,Property,Mass Customer,No,7,4556,QLD,Australia,7,760,0.6375,32.0
+Yorgos,Dewhurst,Male,6,Software Consultant,Argiculture,Affluent Customer,No,16,4701,QLD,Australia,1,760,0.6375,69.0
+Simmonds,Bapty,Male,52,Junior Executive,Financial Services,Affluent Customer,No,8,2025,NSW,Australia,12,760,0.6375,18.0
+Hagen,MacCarter,Male,93,Payment Adjustment Coordinator,Entertainment,Affluent Customer,Yes,15,3172,VIC,Australia,9,760,0.6375,37.0
+Cazzie,Stanwix,Male,37,Research Assistant IV,Manufacturing,High Net Worth,Yes,11,4561,QLD,Australia,7,760,0.6375,59.0
+Geoff,Gwillym,Male,89,Clinical Specialist,Health,Affluent Customer,No,8,2323,NSW,Australia,4,760,0.6375,21.0
+Simonette,Gwillym,Female,4,VP Product Management,Manufacturing,Affluent Customer,Yes,6,2232,NSW,Australia,8,760,0.6375,30.0
+Deirdre,Sturgeon,Female,11,VP Sales,Retail,Mass Customer,Yes,9,2232,NSW,Australia,10,760,0.6375,54.0
+Andrea,Pendle,Female,86,Analyst Programmer,Entertainment,High Net Worth,Yes,13,4500,QLD,Australia,6,760,0.6375,81.0
+Juliann,Siemantel,Female,86,Librarian,Entertainment,Mass Customer,No,22,3046,VIC,Australia,8,760,0.6375,72.0
+Janaye,Eade,Female,23,Chief Design Engineer,Health,Affluent Customer,No,4,2420,NSW,Australia,3,760,0.6375,35.0
+Dylan,Stranio,Male,47,Project Manager,Manufacturing,High Net Worth,Yes,9,2170,NSW,Australia,8,773,0.63,67.0
+Mel,Rochford,Female,11,Assistant Professor,Retail,Mass Customer,Yes,4,3013,VIC,Australia,9,774,0.626875,30.0
+Elvin,Trayhorn,Male,46,VP Accounting,Financial Services,High Net Worth,No,10,2231,NSW,Australia,10,774,0.626875,27.0
+Dmitri,Viant,Male,62,Paralegal,Financial Services,Affluent Customer,No,5,3842,VIC,Australia,1,774,0.626875,33.0
+Sonni,Milligan,Female,73,Budget/Accounting Analyst III,Retail,Mass Customer,Yes,14,3170,VIC,Australia,9,774,0.626875,32.0
+Kellina,Haygreen,Female,38,Librarian,Entertainment,Affluent Customer,No,18,2046,NSW,Australia,10,778,0.625,54.0
+Yuma,Dennick,Male,40,Structural Analysis Engineer,Manufacturing,Mass Customer,Yes,6,2528,NSW,Australia,8,778,0.625,47.0
+Ashleigh,Dennick,Female,46,Budget/Accounting Analyst III,IT,Mass Customer,Yes,6,3204,VIC,Australia,12,780,0.6242187499999999,24.0
+Therese,Brotherhood,Female,30,Food Chemist,Health,Mass Customer,No,10,2042,NSW,Australia,10,780,0.6242187499999999,38.0
+Pansie,Beccero,Female,35,Software Test Engineer I,Financial Services,Affluent Customer,Yes,10,4818,QLD,Australia,5,782,0.6204999999999999,56.0
+Reinaldos,Simmig,Male,55,Nurse Practicioner,Manufacturing,High Net Worth,No,8,3147,VIC,Australia,10,782,0.6204999999999999,65.0
+Calhoun,Mussington,Male,98,Dental Hygienist,Health,Mass Customer,No,12,2019,NSW,Australia,9,782,0.6204999999999999,27.0
+Winn,Wells,Male,66,Analyst Programmer,Manufacturing,Affluent Customer,No,9,2230,NSW,Australia,10,785,0.62,26.0
+Rafi,Brettelle,Male,89,Operator,Health,High Net Worth,No,6,2166,NSW,Australia,10,786,0.61625,63.0
+Fey,Brettelle,Female,48,Research Nurse,Health,High Net Worth,Yes,11,3147,VIC,Australia,12,786,0.61625,62.0
+Verne,Loalday,Male,1,Marketing Assistant,IT,High Net Worth,No,7,2082,NSW,Australia,10,788,0.6125,38.0
+Eleonora,Wiszniewski,Female,49,Financial Advisor,Financial Services,Affluent Customer,No,9,4740,QLD,Australia,2,788,0.6125,40.0
+Fayre,Brannigan,Female,32,Geological Engineer,Manufacturing,Mass Customer,Yes,9,2234,NSW,Australia,10,788,0.6125,27.0
+Eachelle,Noirel,Female,93,Registered Nurse,Health,Affluent Customer,Yes,11,2292,NSW,Australia,6,791,0.612,46.0
+Carl,Troyes,Male,4,Associate Professor,Property,Mass Customer,No,7,3109,VIC,Australia,10,791,0.612,47.0
+Cordie,Brankley,Female,79,Librarian,Entertainment,High Net Worth,No,18,2195,NSW,Australia,6,793,0.6109375000000001,65.0
+Jackie,Pays,Male,21,Developer I,Health,Mass Customer,No,9,2135,NSW,Australia,12,794,0.6056249999999999,64.0
+Carroll,Schlagman,Female,61,Clinical Specialist,Health,Affluent Customer,No,13,2099,NSW,Australia,9,795,0.6034999999999999,68.0
+Frans,Idale,Male,1,Nurse,Manufacturing,Mass Customer,No,10,4350,QLD,Australia,2,795,0.6034999999999999,50.0
+Amara,Clow,Female,47,Biostatistician IV,Financial Services,Mass Customer,Yes,13,3101,VIC,Australia,12,797,0.6,53.0
+Anthony,Morison,Male,7,General Manager,Health,Mass Customer,No,12,2759,NSW,Australia,9,797,0.6,82.0
+Cherye,Stanfield,Female,0,Environmental Tech,Manufacturing,Affluent Customer,No,13,2256,NSW,Australia,9,797,0.6,39.0
+Ansell,Tolhurst,Male,77,Chemical Engineer,Manufacturing,Affluent Customer,No,22,2232,NSW,Australia,10,797,0.6,70.0
+Erminie,Rabidge,Female,64,Account Representative III,Manufacturing,High Net Worth,No,17,2170,NSW,Australia,8,801,0.59765625,38.0
+Rosene,Beckey,Female,25,Account Executive,Health,Mass Customer,Yes,14,2107,NSW,Australia,11,801,0.59765625,46.0
+Darlleen,Shalcras,Female,77,Health Coach I,Health,Mass Customer,No,11,2010,NSW,Australia,10,801,0.59765625,39.0
+Bryon,Goundry,Male,79,Marketing Manager,Manufacturing,Mass Customer,No,21,4165,QLD,Australia,5,804,0.5950000000000001,69.0
+Sherwin,Minocchi,Male,71,Project Manager,Financial Services,Mass Customer,Yes,11,2536,NSW,Australia,8,804,0.5950000000000001,73.0
+Luci,Dyter,Female,12,Software Test Engineer I,Manufacturing,High Net Worth,No,20,3981,VIC,Australia,7,804,0.5950000000000001,68.0
+Sloan,Pudney,Male,83,Junior Executive,Financial Services,Affluent Customer,No,16,4557,QLD,Australia,9,804,0.5950000000000001,55.0
+Otes,Elegood,Male,67,Programmer III,Financial Services,High Net Worth,No,21,2226,NSW,Australia,11,808,0.595,79.0
+Davie,Blay,Male,94,Financial Analyst,Financial Services,Mass Customer,No,8,2770,NSW,Australia,7,808,0.595,34.0
+Dorolice,Osmon,Female,46,Assistant Professor,Financial Services,Affluent Customer,No,15,3046,VIC,Australia,6,810,0.5874999999999999,59.0
+Meade,McReedy,Female,94,Safety Technician IV,Financial Services,Affluent Customer,Yes,9,2193,NSW,Australia,10,810,0.5874999999999999,51.0
+Rikki,Chaffey,Male,69,Chemical Engineer,Manufacturing,Mass Customer,No,20,4127,QLD,Australia,1,810,0.5874999999999999,75.0
+Adria,Van den Velde,Female,39,Nuclear Power Engineer,Manufacturing,Affluent Customer,Yes,9,2261,NSW,Australia,7,810,0.5874999999999999,42.0
+Dmitri,Van den Velde,Male,72,Structural Analysis Engineer,Financial Services,High Net Worth,Yes,15,3690,VIC,Australia,4,810,0.5874999999999999,29.0
+Maddalena,Hencke,Female,61,Help Desk Operator,Manufacturing,High Net Worth,No,22,4170,QLD,Australia,5,810,0.5874999999999999,67.0
+Rand,Winchcum,Male,34,Software Consultant,Health,Affluent Customer,No,3,2146,NSW,Australia,7,810,0.5874999999999999,20.0
+Rowen,Sollas,Male,38,Dental Hygienist,Health,Mass Customer,No,5,4556,QLD,Australia,8,817,0.5864999999999999,60.0
+Boothe,Hayselden,Male,42,Computer Systems Analyst III,Health,Mass Customer,Yes,17,2291,NSW,Australia,10,817,0.5864999999999999,80.0
+Noak,Sleany,Male,1,Budget/Accounting Analyst I,Financial Services,Affluent Customer,No,17,3121,VIC,Australia,10,817,0.5864999999999999,55.0
+Callean,Wass,Male,65,GIS Technical Architect,Financial Services,Affluent Customer,No,14,3073,VIC,Australia,8,820,0.584375,31.0
+Keelby,Sudlow,Male,96,Marketing Assistant,Manufacturing,High Net Worth,No,12,3163,VIC,Australia,8,820,0.584375,31.0
+Rodrique,Vernon,Male,70,Budget/Accounting Analyst III,Manufacturing,Affluent Customer,No,17,3174,VIC,Australia,8,820,0.584375,41.0
+Brod,Attrey,Male,46,Budget/Accounting Analyst III,Argiculture,Mass Customer,Yes,14,2194,NSW,Australia,8,820,0.584375,53.0
+Manny,Mandy,Male,36,Account Representative III,Argiculture,Mass Customer,No,16,4280,QLD,Australia,7,820,0.584375,43.0
+Becky,Lassen,Female,11,Sales Associate,Financial Services,Mass Customer,Yes,7,2251,NSW,Australia,8,820,0.584375,47.0
+Tessa,Heakey,Female,43,Senior Financial Analyst,Financial Services,Mass Customer,No,9,3337,VIC,Australia,6,820,0.584375,49.0
+Herbert,Henryson,Male,21,Marketing Manager,Property,Mass Customer,No,4,2528,NSW,Australia,9,820,0.584375,24.0
+Cristie,Bence,Female,49,Automation Specialist II,Manufacturing,High Net Worth,No,9,4122,QLD,Australia,8,828,0.58,20.0
+Renate,Whyte,Female,60,Registered Nurse,Health,High Net Worth,Yes,15,2620,NSW,Australia,7,828,0.58,56.0
+Toma,Woolforde,Female,67,Cost Accountant,Financial Services,Mass Customer,Yes,5,2092,NSW,Australia,12,830,0.5780000000000001,28.0
+Dorie,Dunleavy,Female,24,Registered Nurse,Health,Affluent Customer,No,12,3356,VIC,Australia,4,830,0.5780000000000001,58.0
+Ellie,Toope,Female,29,Staff Accountant III,Property,High Net Worth,Yes,4,2156,NSW,Australia,11,832,0.5750000000000001,46.0
+Leonora,Swetenham,Female,66,Database Administrator III,IT,Mass Customer,Yes,10,2026,NSW,Australia,10,832,0.5750000000000001,52.0
+Teodor,Mullinder,Male,56,Nuclear Power Engineer,Manufacturing,High Net Worth,No,11,3216,VIC,Australia,5,832,0.5750000000000001,57.0
+Jared,Fendlow,Male,79,Media Manager II,Financial Services,Mass Customer,No,15,4211,QLD,Australia,7,832,0.5750000000000001,56.0
+Porty,Hansed,Male,88,General Manager,IT,Mass Customer,No,13,2112,NSW,Australia,11,832,0.5750000000000001,38.0
+Andy,Deeming,Male,79,Payment Adjustment Coordinator,Manufacturing,Affluent Customer,Yes,7,4556,QLD,Australia,8,832,0.5750000000000001,41.0
+Monty,Thomazin,Male,7,Quality Engineer,Financial Services,Mass Customer,Yes,13,3105,VIC,Australia,10,838,0.57375,68.0
+Briano,Janowski,Male,66,Analyst Programmer,Health,Mass Customer,No,7,2066,NSW,Australia,8,838,0.57375,25.0
+Ginger,Janowski,Male,94,Human Resources Manager,Manufacturing,Mass Customer,No,11,2259,NSW,Australia,8,840,0.57109375,81.0
+Logan,Colomb,Male,74,Recruiter,Health,Mass Customer,Yes,19,2761,NSW,Australia,8,840,0.57109375,72.0
+Nichols,Devinn,Male,47,Recruiter,Financial Services,Affluent Customer,No,11,2071,NSW,Australia,12,842,0.57,40.0
+Catha,Davitt,Female,79,Environmental Specialist,Property,High Net Worth,Yes,6,2567,NSW,Australia,7,843,0.5695,62.0
+Melosa,McOwan,Female,25,Compensation Analyst,Financial Services,Mass Customer,No,12,2211,NSW,Australia,9,843,0.5695,19.0
+Maris,Leete,Female,21,Engineer IV,Retail,Mass Customer,No,7,4300,QLD,Australia,4,845,0.5631250000000001,47.0
+Wilburt,Padden,Male,22,Engineer I,Manufacturing,Mass Customer,No,3,2148,NSW,Australia,5,845,0.5631250000000001,25.0
+Rosabelle,Godsmark,Female,60,Executive Secretary,Telecommunications,Mass Customer,Yes,3,4102,QLD,Australia,8,845,0.5631250000000001,24.0
+Guilbert,Bearns,Male,42,Financial Analyst,Financial Services,Mass Customer,Yes,5,3226,VIC,Australia,8,845,0.5631250000000001,37.0
+Meridith,Urwin,Female,62,Registered Nurse,Health,High Net Worth,Yes,10,2444,NSW,Australia,7,845,0.5631250000000001,23.0
+Leeland,Urwin,Male,66,VP Quality Control,Telecommunications,High Net Worth,No,12,4122,QLD,Australia,4,845,0.5631250000000001,63.0
+Gerta,Porrett,Female,46,Registered Nurse,Health,High Net Worth,No,12,3250,VIC,Australia,2,851,0.5625,60.0
+Karrah,Howell,Female,63,Civil Engineer,Manufacturing,Mass Customer,No,17,2566,NSW,Australia,9,851,0.5625,63.0
+Alick,Baise,Male,62,Pharmacist,Health,Mass Customer,Yes,1,2747,NSW,Australia,8,851,0.5625,21.0
+Casandra,Betteridge,Female,29,Cost Accountant,Financial Services,Affluent Customer,Yes,9,3166,VIC,Australia,10,854,0.561,77.0
+Maurine,Clee,Female,45,Automation Specialist II,Property,High Net Worth,Yes,5,2042,NSW,Australia,10,854,0.561,39.0
+Darwin,Bumpas,Male,24,Junior Executive,Health,Affluent Customer,Yes,18,3082,VIC,Australia,7,856,0.56,41.0
+Hayes,Daveren,Male,32,VP Quality Control,Manufacturing,Affluent Customer,Yes,11,4350,QLD,Australia,2,856,0.56,67.0
+Piper,Issacov,Female,67,Human Resources Assistant III,Health,Affluent Customer,Yes,22,2088,NSW,Australia,9,856,0.56,80.0
+Markus,Pendrey,Male,88,Clinical Specialist,Health,Affluent Customer,Yes,12,2153,NSW,Australia,10,859,0.5578124999999999,60.0
+Sile,Zappel,Female,47,Business Systems Development Analyst,IT,High Net Worth,No,15,4018,QLD,Australia,6,859,0.5578124999999999,62.0
+Craggy,Happel,Male,37,Marketing Manager,Manufacturing,High Net Worth,Yes,8,3064,VIC,Australia,6,859,0.5578124999999999,41.0
+Egor,Mariette,Male,42,Financial Advisor,Financial Services,Affluent Customer,No,3,3163,VIC,Australia,7,862,0.5525,39.0
+Reinald,Bembrigg,Male,54,Senior Financial Analyst,Financial Services,Affluent Customer,No,10,2770,NSW,Australia,7,862,0.5525,66.0
+Kissie,Line,Female,2,Environmental Tech,Manufacturing,Affluent Customer,Yes,7,2200,NSW,Australia,9,862,0.5525,20.0
+Quentin,Gerleit,Female,32,Associate Professor,Manufacturing,Mass Customer,No,4,3806,VIC,Australia,8,865,0.55,29.0
+Karoly,Burgoine,Male,57,Account Representative IV,Health,High Net Worth,Yes,21,3012,VIC,Australia,2,865,0.55,73.0
+Clarine,Piecha,Female,99,Dental Hygienist,Health,High Net Worth,No,14,4151,QLD,Australia,10,865,0.55,55.0
+Mycah,Beaston,Male,11,Environmental Specialist,Financial Services,High Net Worth,Yes,12,2221,NSW,Australia,11,865,0.55,58.0
+Clemmie,Bartoszewicz,Female,87,Statistician IV,Financial Services,Mass Customer,No,8,3197,VIC,Australia,9,865,0.55,61.0
+Randall,Mason,Male,95,Product Engineer,Health,Mass Customer,Yes,12,2570,NSW,Australia,11,870,0.544,45.0
+Donica,Humby,Female,47,Senior Cost Accountant,Financial Services,Mass Customer,No,4,2101,NSW,Australia,12,871,0.541875,53.0
+Lotty,Loach,Female,76,Nurse,Health,High Net Worth,Yes,7,2380,NSW,Australia,3,871,0.541875,58.0
+Marie-jeanne,Breawood,Female,37,Clinical Specialist,Health,High Net Worth,No,8,2770,NSW,Australia,6,871,0.541875,66.0
+Babara,Sissel,Female,50,Accounting Assistant IV,IT,Mass Customer,Yes,21,3169,VIC,Australia,10,871,0.541875,46.0
+Rodolphe,Glenton,Male,88,Programmer Analyst II,Financial Services,Affluent Customer,No,11,3163,VIC,Australia,7,871,0.541875,45.0
+Thorvald,Duckerin,Male,58,Electrical Engineer,Manufacturing,Affluent Customer,Yes,1,3021,VIC,Australia,8,871,0.541875,24.0
+Paulina,Iannuzzelli,Female,57,Automation Specialist I,Manufacturing,Mass Customer,No,19,2118,NSW,Australia,11,877,0.54,64.0
+Ricki,Padefield,Male,43,Automation Specialist III,Manufacturing,Affluent Customer,Yes,13,4275,QLD,Australia,9,877,0.54,71.0
+Lizette,McKeaveney,Female,30,Assistant Manager,Health,High Net Worth,Yes,13,2050,NSW,Australia,10,879,0.5375,26.0
+Muffin,Bhar,Male,44,Software Consultant,Financial Services,Affluent Customer,No,19,2448,NSW,Australia,4,879,0.5375,54.0
+Jeno,Strafford,Male,67,Tax Accountant,Financial Services,High Net Worth,No,7,4170,QLD,Australia,9,879,0.5375,78.0
+Brigg,Himsworth,Male,63,Office Assistant II,Telecommunications,Mass Customer,Yes,9,4570,QLD,Australia,6,882,0.5355,46.0
+Judi,Cazereau,Female,22,GIS Technical Architect,Manufacturing,Affluent Customer,Yes,13,3851,VIC,Australia,3,883,0.53125,23.0
+Shara,Bramhill,Male,24,Associate Professor,IT,Affluent Customer,No,2,2230,NSW,Australia,10,883,0.53125,30.0
+Raleigh,Pont,Male,48,Associate Professor,Entertainment,Mass Customer,No,14,3139,VIC,Australia,7,883,0.53125,55.0
+Zachariah,Meininking,Male,40,Cost Accountant,Financial Services,Affluent Customer,Yes,20,2749,NSW,Australia,7,883,0.53125,82.0
+Lesley,Garey,Male,52,Software Consultant,Telecommunications,Mass Customer,No,11,2226,NSW,Australia,9,883,0.53125,26.0
+Adriena,Giffin,Female,27,Analog Circuit Design manager,Argiculture,Affluent Customer,Yes,5,2259,NSW,Australia,9,888,0.525,63.0
+Antoinette,Giffin,Female,72,Structural Analysis Engineer,Financial Services,Affluent Customer,No,5,3058,VIC,Australia,9,888,0.525,39.0
+Carr,Hopkynson,Male,64,Web Developer IV,Manufacturing,Affluent Customer,No,16,2318,NSW,Australia,6,888,0.525,48.0
+Shay,Briand,Male,57,Project Manager,IT,Mass Customer,Yes,9,3844,VIC,Australia,1,888,0.525,63.0
+Karney,Burstow,Male,51,Design Engineer,Property,Mass Customer,Yes,6,2031,NSW,Australia,12,888,0.525,48.0
+Latrena,Yetts,Female,11,Civil Engineer,Manufacturing,High Net Worth,Yes,15,2871,NSW,Australia,3,893,0.520625,21.0
+Jesse,Alflat,Male,31,Executive Secretary,IT,High Net Worth,No,5,2145,NSW,Australia,9,893,0.520625,35.0
+Kelcie,Kingaby,Female,54,Systems Administrator II,IT,Mass Customer,Yes,6,4019,QLD,Australia,4,893,0.520625,20.0
+Fabio,Commuzzo,Male,5,Software Test Engineer II,Manufacturing,Mass Customer,No,18,3806,VIC,Australia,8,896,0.52,58.0
+Heall,Andrioli,Male,46,Environmental Tech,IT,Affluent Customer,Yes,7,4133,QLD,Australia,5,896,0.52,79.0
+Rickert,Brasted,Male,47,Staff Scientist,Health,Mass Customer,No,10,2145,NSW,Australia,9,898,0.5125,60.0
+Hedwig,Jayme,Female,38,Accountant IV,Property,Affluent Customer,No,11,2099,NSW,Australia,10,899,0.51,67.0
+Penrod,Tomasicchio,Male,5,VP Product Management,Health,High Net Worth,No,19,2318,NSW,Australia,9,899,0.51,52.0
+Pancho,Edis,Male,1,Assistant Professor,Health,Mass Customer,No,13,3023,VIC,Australia,7,899,0.51,49.0
+Andriana,Gosnoll,Female,53,Chief Design Engineer,Manufacturing,Mass Customer,No,8,2291,NSW,Australia,10,899,0.51,56.0
+Nilson,Wiggam,Male,48,Paralegal,Financial Services,Mass Customer,No,9,3049,VIC,Australia,6,903,0.5015,24.0
+Denny,Spleving,Female,84,Business Systems Development Analyst,Manufacturing,Affluent Customer,Yes,5,2114,NSW,Australia,8,904,0.5,47.0
+Roth,Crum,Male,0,Legal Assistant,IT,Mass Customer,No,2,2450,NSW,Australia,6,904,0.5,28.0
+Olia,O' Mullan,Female,77,Account Executive,Health,Mass Customer,No,8,2263,NSW,Australia,7,904,0.5,47.0
+Conway,Juarez,Male,27,Help Desk Technician,Manufacturing,Affluent Customer,No,17,4814,QLD,Australia,5,904,0.5,53.0
+Dru,Crellim,Female,57,Registered Nurse,Health,Mass Customer,No,12,3030,VIC,Australia,7,904,0.5,57.0
+Shaw,MacEvilly,Male,10,Software Test Engineer III,Health,Affluent Customer,No,16,2768,NSW,Australia,9,904,0.5,20.0
+Brook,Eade,Female,65,Sales Representative,Retail,Mass Customer,Yes,8,2330,NSW,Australia,5,904,0.5,62.0
+Aleece,Feige,Female,49,VP Marketing,Manufacturing,Mass Customer,No,18,2141,NSW,Australia,10,904,0.5,44.0
+Dolorita,Strutton,Female,7,General Manager,Manufacturing,Affluent Customer,No,17,3178,VIC,Australia,8,904,0.5,29.0
+Harman,A'field,Male,39,Geologist III,Manufacturing,Affluent Customer,Yes,6,4227,QLD,Australia,5,913,0.4993749999999999,59.0
+Hildegarde,Bamb,Female,16,Help Desk Operator,Manufacturing,High Net Worth,Yes,10,3910,VIC,Australia,9,913,0.4993749999999999,59.0
+Launce,Gale,Male,86,Biostatistician IV,Manufacturing,Mass Customer,No,21,2777,NSW,Australia,9,913,0.4993749999999999,81.0
+Ilise,Clissold,Female,58,Developer IV,Entertainment,High Net Worth,No,9,2153,NSW,Australia,10,913,0.4993749999999999,32.0
+Julita,Prene,Female,14,Chemical Engineer,Manufacturing,High Net Worth,Yes,13,4128,QLD,Australia,2,913,0.4993749999999999,41.0
+Ashlen,Willbond,Female,64,Software Consultant,Health,High Net Worth,No,16,3934,VIC,Australia,8,913,0.4993749999999999,36.0
+Keely,Bointon,Female,71,Nurse,Telecommunications,High Net Worth,No,3,4154,QLD,Australia,9,913,0.4993749999999999,31.0
+Poul,Gaskin,Male,78,Help Desk Operator,Telecommunications,High Net Worth,No,17,2643,NSW,Australia,2,920,0.4929999999999999,70.0
+Sheilakathryn,Huff,Female,45,Assistant Manager,Manufacturing,High Net Worth,Yes,14,2477,NSW,Australia,6,921,0.49,62.0
+Rubia,Evetts,Female,59,Pharmacist,Health,Mass Customer,No,16,2071,NSW,Australia,9,921,0.49,29.0
+Francklin,Cross,Male,51,Teacher,Property,Mass Customer,Yes,3,2231,NSW,Australia,10,921,0.49,39.0
+Wilone,Champley,Female,22,Web Developer II,Manufacturing,High Net Worth,No,17,2077,NSW,Australia,10,924,0.48875,36.0
+Lezlie,Clemits,Female,2,Senior Cost Accountant,Financial Services,Mass Customer,Yes,15,2155,NSW,Australia,10,924,0.48875,47.0
+Kathe,Oller,Female,47,General Manager,Manufacturing,Mass Customer,Yes,5,3029,VIC,Australia,4,926,0.4844999999999999,60.0
+Dulce,Bradwell,Female,61,Research Associate,Manufacturing,Mass Customer,No,20,4159,QLD,Australia,9,926,0.4844999999999999,63.0
+Felice,Dechelette,Male,75,Librarian,Entertainment,High Net Worth,No,3,4051,QLD,Australia,4,928,0.48,22.0
+Joane,Caldes,Female,84,Senior Cost Accountant,Financial Services,High Net Worth,Yes,13,2250,NSW,Australia,7,928,0.48,42.0
+Diane,Furman,Female,67,Environmental Tech,Manufacturing,Affluent Customer,Yes,13,3013,VIC,Australia,9,930,0.478125,26.0
+Ogdan,Blenkinship,Male,65,Occupational Therapist,Health,Mass Customer,Yes,21,3429,VIC,Australia,5,930,0.478125,69.0
+Kizzee,Agget,Female,98,Statistician II,Manufacturing,Affluent Customer,No,8,2213,NSW,Australia,10,930,0.478125,43.0
+Stephi,Highton,Female,30,Software Engineer I,Telecommunications,Mass Customer,Yes,12,2154,NSW,Australia,10,930,0.478125,32.0
+Martino,Scoles,Male,18,Senior Financial Analyst,Financial Services,Mass Customer,No,14,3620,VIC,Australia,4,930,0.478125,45.0
+Morgen,Newport,Female,5,Project Manager,Manufacturing,Mass Customer,No,6,3340,VIC,Australia,4,930,0.478125,59.0
+Eugenie,Brinson,Female,79,Assistant Media Planner,Entertainment,Mass Customer,Yes,17,3073,VIC,Australia,6,936,0.476,56.0
+Reinold,Natt,Male,16,Help Desk Technician,Financial Services,High Net Worth,Yes,8,3207,VIC,Australia,8,937,0.47,55.0
+Jo,Roberts,Female,41,Paralegal,Financial Services,High Net Worth,Yes,11,2440,NSW,Australia,3,937,0.47,74.0
+Jacklin,Duchant,Female,77,Legal Assistant,Argiculture,Mass Customer,No,17,4132,QLD,Australia,4,939,0.4675,80.0
+Colas,Gabbitas,Male,98,Staff Scientist,Retail,High Net Worth,No,20,2166,NSW,Australia,9,939,0.4675,73.0
+Claudetta,Ricciardiello,Female,61,Internal Auditor,Financial Services,Mass Customer,Yes,21,3181,VIC,Australia,8,939,0.4675,46.0
+Angele,Cadore,Female,5,Chief Design Engineer,Health,Mass Customer,Yes,7,4125,QLD,Australia,7,939,0.4675,65.0
+Cicily,Hast,Female,63,Food Chemist,Health,Affluent Customer,Yes,8,2478,NSW,Australia,3,939,0.4675,49.0
+Harland,Messenger,Male,90,Software Test Engineer I,Retail,Mass Customer,No,8,3934,VIC,Australia,10,944,0.46,46.0
+Sim,Constantinou,Male,91,Analog Circuit Design manager,Property,Mass Customer,No,5,2010,NSW,Australia,9,944,0.46,27.0
+Shanon,Rolfe,Female,63,Sales Representative,Retail,High Net Worth,No,8,2530,NSW,Australia,7,944,0.46,78.0
+Chryste,Oddboy,Female,44,Software Engineer III,Manufacturing,High Net Worth,Yes,4,2320,NSW,Australia,9,947,0.459,31.0
+Edin,Patinkin,Female,35,Account Executive,Health,Mass Customer,No,17,3015,VIC,Australia,4,948,0.456875,28.0
+Nolly,Ivanchikov,Male,13,Help Desk Operator,Manufacturing,High Net Worth,Yes,11,2049,NSW,Australia,11,948,0.456875,26.0
+Michele,Pammenter,Male,23,Teacher,Health,High Net Worth,No,2,3198,VIC,Australia,8,948,0.456875,37.0
+Liane,Abelevitz,Female,26,Operator,IT,Mass Customer,No,3,3153,VIC,Australia,7,951,0.4505,43.0
+Philbert,Bangs,Male,67,Environmental Specialist,IT,Mass Customer,Yes,6,4500,QLD,Australia,7,951,0.4505,54.0
+Candy,Bangs,Female,23,Human Resources Assistant I,Financial Services,Mass Customer,No,6,3500,VIC,Australia,3,951,0.4505,42.0
+Noami,Cokly,Female,74,Account Representative III,Manufacturing,Mass Customer,Yes,15,2038,NSW,Australia,11,954,0.45,57.0
+Lyndell,Jereatt,Female,14,Payment Adjustment Coordinator,Entertainment,High Net Worth,No,13,2122,NSW,Australia,12,954,0.45,25.0
+Maximilien,Bourget,Male,12,Geologist I,Financial Services,Mass Customer,Yes,6,3337,VIC,Australia,7,956,0.44625,51.0
+Benedikta,Naptin,Female,59,Operator,Retail,Mass Customer,Yes,15,2121,NSW,Australia,11,956,0.44625,24.0
+Rhodie,Gaskall,Female,83,VP Quality Control,Financial Services,Mass Customer,Yes,9,4170,QLD,Australia,9,956,0.44625,56.0
+Afton,Andrassy,Female,78,Web Designer II,Retail,Mass Customer,No,7,3075,VIC,Australia,8,956,0.44625,21.0
+Blondell,Dibdall,Female,62,Programmer III,Health,Mass Customer,No,4,3048,VIC,Australia,4,960,0.442,53.0
+Sonia,Dunstall,Female,0,Accountant III,Financial Services,Mass Customer,No,10,2570,NSW,Australia,9,960,0.442,44.0
+Benedikt,Adamou,Male,15,Recruiting Manager,Health,Mass Customer,No,11,3564,VIC,Australia,3,960,0.442,33.0
+Don,Spratling,Male,82,Associate Professor,Property,Affluent Customer,Yes,7,2760,NSW,Australia,10,963,0.44,51.0
+Moll,Ogilby,Female,25,Research Assistant III,Manufacturing,Mass Customer,Yes,13,4123,QLD,Australia,6,963,0.44,39.0
+Jammie,Seldner,Female,42,Human Resources Manager,Health,Mass Customer,Yes,15,2066,NSW,Australia,10,963,0.44,45.0
+Inglis,Pickaver,Male,33,Product Engineer,Telecommunications,Affluent Customer,No,1,2770,NSW,Australia,8,963,0.44,26.0
+Clarabelle,Broschek,Female,6,Geological Engineer,Manufacturing,Mass Customer,No,18,4035,QLD,Australia,6,967,0.4356249999999999,56.0
+Tillie,Bisseker,Female,74,Civil Engineer,Manufacturing,High Net Worth,No,14,2104,NSW,Australia,12,967,0.4356249999999999,59.0
+Irving,Babcock,Male,60,Dental Hygienist,Health,High Net Worth,Yes,15,2705,NSW,Australia,1,967,0.4356249999999999,34.0
+Evered,Gludor,Male,3,Electrical Engineer,Manufacturing,High Net Worth,Yes,15,2168,NSW,Australia,8,967,0.4356249999999999,69.0
+Mavra,Finan,Female,30,Nurse,Property,Affluent Customer,Yes,4,2034,NSW,Australia,9,967,0.4356249999999999,52.0
+Frieda,Tavinor,Female,43,Help Desk Operator,Property,Affluent Customer,No,10,3064,VIC,Australia,6,972,0.43,21.0
+Ellwood,Budden,Male,82,Account Executive,Health,Mass Customer,Yes,11,2192,NSW,Australia,10,972,0.43,22.0
+Alex,Patshull,Female,37,Senior Quality Engineer,Retail,Mass Customer,Yes,13,4165,QLD,Australia,5,974,0.425,54.0
+Aundrea,Outridge,Female,77,Structural Engineer,Financial Services,Affluent Customer,Yes,10,3186,VIC,Australia,12,974,0.425,19.0
+Amby,Bodega,Male,63,Recruiter,Manufacturing,Affluent Customer,Yes,17,3810,VIC,Australia,6,974,0.425,52.0
+Esme,Pilipets,Male,15,Environmental Tech,Health,Mass Customer,Yes,5,3228,VIC,Australia,9,977,0.42,53.0
+Beverly,Domnick,Female,56,Structural Analysis Engineer,IT,Mass Customer,No,9,2232,NSW,Australia,10,977,0.42,81.0
+Artemis,Swanson,Male,77,Web Designer II,Argiculture,Mass Customer,Yes,13,3810,VIC,Australia,5,979,0.4165,43.0
+Daryle,Marginson,Male,93,Environmental Tech,Argiculture,Mass Customer,Yes,9,2121,NSW,Australia,12,979,0.4165,34.0
+Tyne,Anshell,Female,71,Mechanical Systems Engineer,Health,Mass Customer,Yes,3,2560,NSW,Australia,8,979,0.4165,28.0
+Leona,Shorrock,Female,83,Senior Quality Engineer,Financial Services,Affluent Customer,Yes,22,4720,QLD,Australia,1,979,0.4165,68.0
+Bertrando,Carass,Male,45,Sales Associate,Property,Mass Customer,No,8,2565,NSW,Australia,5,983,0.41,64.0
+Augusta,Munns,Female,5,Quality Control Specialist,Health,Mass Customer,No,21,2074,NSW,Australia,11,983,0.41,68.0
+Pauline,Dallosso,Male,82,Desktop Support Technician,IT,Affluent Customer,Yes,0,2050,NSW,Australia,10,985,0.408,33.0
+Lauralee,Fudge,Female,83,Research Nurse,Health,Mass Customer,No,15,3277,VIC,Australia,4,985,0.408,32.0
+Consalve,Ballay,Male,41,Web Developer I,IT,Mass Customer,Yes,7,2250,NSW,Australia,8,987,0.4,60.0
+Lolly,Prewer,Female,44,Geologist I,Health,Mass Customer,No,15,2620,NSW,Australia,7,988,0.3995,22.0
+Vyky,Pegg,Female,64,Quality Control Specialist,Manufacturing,Mass Customer,Yes,11,2322,NSW,Australia,7,988,0.3995,77.0
+Kellen,Pawelski,Female,83,Media Manager II,Manufacturing,High Net Worth,Yes,11,2193,NSW,Australia,8,988,0.3995,74.0
+Jermaine,Bagshawe,Female,60,Help Desk Operator,Property,Mass Customer,Yes,9,4209,QLD,Australia,6,988,0.3995,66.0
+Bryan,Jachtym,Male,59,Automation Specialist I,Manufacturing,Mass Customer,Yes,15,3356,VIC,Australia,3,988,0.3995,46.0
+Renie,Laundon,Female,32,Assistant Media Planner,Entertainment,Mass Customer,Yes,8,4118,QLD,Australia,3,993,0.391,46.0
+Weidar,Etheridge,Male,38,Compensation Analyst,Financial Services,Mass Customer,Yes,6,2422,NSW,Australia,4,994,0.3825,61.0
+Datha,Fishburn,Female,15,Office Assistant IV,Retail,Mass Customer,No,3,3079,VIC,Australia,12,994,0.3825,30.0
+Ferdinand,Romanetti,Male,60,Paralegal,Financial Services,Affluent Customer,No,9,2200,NSW,Australia,7,996,0.374,60.0
+Burk,Wortley,Male,22,Senior Sales Associate,Health,Mass Customer,No,6,2196,NSW,Australia,10,997,0.357,18.0
+Melloney,Temby,Female,17,Budget/Accounting Analyst IV,Financial Services,Affluent Customer,Yes,15,4702,QLD,Australia,2,997,0.357,65.0
+Dickie,Cubbini,Male,30,Financial Advisor,Financial Services,Mass Customer,Yes,19,4215,QLD,Australia,2,997,0.357,67.0
+Sylas,Duffill,Male,56,Staff Accountant IV,Property,Mass Customer,Yes,14,2010,NSW,Australia,9,1000,0.34,64.0
